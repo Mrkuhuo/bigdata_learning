@@ -1,1 +1,4 @@
-[python基础](https://github.com/WuZongYun/bigdata_study/tree/main/python)
+[python]()
+* [python基础]()
+* [python Numpy]()
+* [python Pandas]()
