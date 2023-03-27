@@ -175,8 +175,25 @@ print(thisset)
 {'banana', 'apple', 'cherry'}
 
 ### Set 方法
-![1](../../img/E8CC5CEA-48E8-412a-921C-C7F0E479684B.png)
-
+| 方法                          | 描述                                         |
+|-------------------------------|----------------------------------------------|
+| add()                         | 向集合添加元素。                             |
+| clear()                       | 删除集合中的所有元素。                       |
+| copy()                        | 返回集合的副本。                             |
+| difference()                  | 返回包含两个或更多集合之间差异的集合。       |
+| difference_update()           | 删除此集合中也包含在另一个指定集合中的项目。 |
+| discard()                     | 删除指定项目。                               |
+| intersection()                | 返回为两个其他集合的交集的集合。             |
+| intersection_update()         | 删除此集合中不存在于其他指定集合中的项目。   |
+| isdisjoint()                  | 返回两个集合是否有交集。                     |
+| issubset()                    | 返回另一个集合是否包含此集合。               |
+| issuperset()                  | 返回此集合是否包含另一个集合。               |
+| pop()                         | 从集合中删除一个元素。                       |
+| remove()                      | 删除指定元素。                               |
+| symmetric_difference()        | 返回具有两组集合的对称差集的集合。           |
+| symmetric_difference_update() | 插入此集合和另一个集合的对称差集。           |
+| union()                       | 返回包含集合并集的集合。                     |
+| update()                      | 用此集合和其他集合的并集来更新集合。         |
 向 fruits 集合添加一个元素：
 ```
 fruits = {"apple", "banana", "cherry"}
