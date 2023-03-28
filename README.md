@@ -2,7 +2,9 @@
 ### [一、python](https://github.com/WuZongYun/bigdata_study/tree/main/python)
 * [（一）.python基础](https://github.com/WuZongYun/bigdata_study/tree/main/python/python%E5%9F%BA%E7%A1%80)
 [1. python简介](https://github.com/WuZongYun/bigdata_study/blob/main/python/python%E5%9F%BA%E7%A1%80/1_python%E7%AE%80%E4%BB%8B.md)
+
 [2. python入门](https://github.com/WuZongYun/bigdata_study/blob/main/python/python%E5%9F%BA%E7%A1%80/2_python%E5%85%A5%E9%97%A8.md)
+
 [3. python语法](https://github.com/WuZongYun/bigdata_study/blob/main/python/python%E5%9F%BA%E7%A1%80/3_python%20%E8%AF%AD%E6%B3%95.md)
 [4. python注释](https://github.com/WuZongYun/bigdata_study/blob/main/python/python%E5%9F%BA%E7%A1%80/4_python%E6%B3%A8%E9%87%8A.md)
 [5. python变量](https://github.com/WuZongYun/bigdata_study/blob/main/python/python%E5%9F%BA%E7%A1%80/5_Python%E5%8F%98%E9%87%8F.md)
