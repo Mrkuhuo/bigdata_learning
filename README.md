@@ -5,3 +5,6 @@
 * [3.python Pandas](https://github.com/WuZongYun/bigdata_study/tree/main/python/pythonPandas)
 
 ### [二、shell](https://github.com/WuZongYun/bigdata_study/tree/main/shell)
+
+### [三、hadoop](https://github.com/WuZongYun/bigdata_study/tree/main/shell)
+
