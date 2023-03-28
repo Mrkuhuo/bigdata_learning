@@ -4,4 +4,4 @@
 * [2.python Numpy](https://github.com/WuZongYun/bigdata_study/tree/main/python/pythonNumpy)
 * [3.python Pandas](https://github.com/WuZongYun/bigdata_study/tree/main/python/pythonPandas)
 
-### [二、shell](https://github.com/WuZongYun/bigdata_study/tree/main/python)
+### [二、shell](https://github.com/WuZongYun/bigdata_study/tree/main/shell)
