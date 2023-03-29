@@ -5,7 +5,7 @@
 
 ![](./images/img_51.png)
 
-### [一、python](https://github.com/WuZongYun/bigdata_study/tree/main/python)
+## [一、python](https://github.com/WuZongYun/bigdata_study/tree/main/python)
 
 **[（一）.python基础](https://github.com/WuZongYun/bigdata_study/tree/main/python/python%E5%9F%BA%E7%A1%80)**
 
@@ -181,7 +181,7 @@
 
 [34. pandas 执行SQL](https://github.com/WuZongYun/bigdata_study/blob/main/python/pythonPandas/34_pandas%E6%89%A7%E8%A1%8CSQL%E6%93%8D%E4%BD%9C.md)
 
-### [二、shell](https://github.com/WuZongYun/bigdata_study/tree/main/shell)
+## [二、shell](https://github.com/WuZongYun/bigdata_study/tree/main/shell)
 
 [1. shell简介](https://github.com/WuZongYun/bigdata_study/blob/main/shell/1_shell%E7%AE%80%E4%BB%8B.md)
 
@@ -208,7 +208,7 @@
 [12. shell 文件包含](https://github.com/WuZongYun/bigdata_study/blob/main/shell/12_shell%20%E6%96%87%E4%BB%B6%E5%8C%85%E5%90%AB.md)
 
 
-### [三、大数据基础环境准备](https://github.com/WuZongYun/bigdata_study/tree/main/%E5%A4%A7%E6%95%B0%E6%8D%AE%E5%9F%BA%E7%A1%80%E7%8E%AF%E5%A2%83%E6%90%AD%E5%BB%BA)
+## [三、大数据基础环境准备](https://github.com/WuZongYun/bigdata_study/tree/main/%E5%A4%A7%E6%95%B0%E6%8D%AE%E5%9F%BA%E7%A1%80%E7%8E%AF%E5%A2%83%E6%90%AD%E5%BB%BA)
 
 [1. 安装虚拟机](https://github.com/WuZongYun/bigdata_study/blob/main/%E5%A4%A7%E6%95%B0%E6%8D%AE%E5%9F%BA%E7%A1%80%E7%8E%AF%E5%A2%83%E6%90%AD%E5%BB%BA/1_%E5%AE%89%E8%A3%85%E8%99%9A%E6%8B%9F%E6%9C%BA.md)
 
