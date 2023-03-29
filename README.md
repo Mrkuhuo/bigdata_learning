@@ -161,7 +161,7 @@
 
 [27. pythonRegEx](https://github.com/WuZongYun/bigdata_study/blob/main/python/pythonPandas/27_pandas%E5%88%86%E7%B1%BB%E5%AF%B9%E8%B1%A1.md)
 
-[28. pythonPIP](https://github.com/WuZongYun/bigdata_study/blob/main/python/pythonPandas/28_pandas%E7%BB%98%E5%9B%BE%E6%95%99%E7%A8%8B%EF%BC%88%E8%AF%A6%E8%A7%A3%E7%89%88).md)
+[28. pythonPIP](https://github.com/WuZongYun/bigdata_study/blob/main/python/pythonPandas/28_pandas%E7%BB%98%E5%9B%BE%E6%95%99%E7%A8%8B%EF%BC%88%E8%AF%A6%E8%A7%A3%E7%89%88.md)
 
 [29. pythonTryException](https://github.com/WuZongYun/bigdata_study/blob/main/python/pythonPandas/29_pandas%E8%AF%BB%E5%8F%96%E6%96%87%E4%BB%B6.md)
 
