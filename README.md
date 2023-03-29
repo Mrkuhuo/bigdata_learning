@@ -1,4 +1,4 @@
-# 大数据学习
+# 大数据学习、实战、数据、源码、测试数据
 #### 包含python、mysql、shell、hadoop、hive、zookeeper、hbase、flume、kafka、spark、flink、dolphinscheduler、elasticsearch、sqoop、clickhouse、flinkcdc、canal、debezuim、datax、hudi、starrocks、iceberg、doris、cdh、superset、docker、kubernetes、strampark、maxwell等组件学习、实战、面试
 
 **码字不易，请路过的朋友们点个★star★鼓励一下~，谢谢。**
