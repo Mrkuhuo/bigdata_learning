@@ -71,7 +71,41 @@
 
 [34. python删除文件](https://github.com/WuZongYun/bigdata_study/blob/main/python/python%E5%9F%BA%E7%A1%80/34_python%E5%88%A0%E9%99%A4%E6%96%87%E4%BB%B6.md)
 
-* [2.python Numpy](https://github.com/WuZongYun/bigdata_study/tree/main/python/pythonNumpy)
+**[（二）.python Numpy](https://github.com/WuZongYun/bigdata_study/tree/main/python/pythonNumpy)**
+
+[1. numpy简介](https://github.com/WuZongYun/bigdata_study/blob/main/python/pythonNumpy/1_numpy%E7%AE%80%E4%BB%8B.md)
+
+[2. numpy入门](https://github.com/WuZongYun/bigdata_study/blob/main/python/pythonNumpy/2_numpy%E5%85%A5%E9%97%A8.md)
+
+[3. numpy数组创建](https://github.com/WuZongYun/bigdata_study/blob/main/python/pythonNumpy/3_numpy%E6%95%B0%E7%BB%84%E5%88%9B%E5%BB%BA.md)
+
+[4. numpy数组索引](https://github.com/WuZongYun/bigdata_study/blob/main/python/pythonNumpy/4_numpy%E6%95%B0%E7%BB%84%E7%B4%A2%E5%BC%95.md)
+
+[5. numpy数据裁切](https://github.com/WuZongYun/bigdata_study/blob/main/python/pythonNumpy/5_numpy%E6%95%B0%E7%BB%84%E8%A3%81%E5%88%87.md)
+
+[6. numpy数据类型](https://github.com/WuZongYun/bigdata_study/blob/main/python/pythonNumpy/6_numpy%E6%95%B0%E6%8D%AE%E7%B1%BB%E5%9E%8B.md)
+
+[7. numpy数组副本和视图](https://github.com/WuZongYun/bigdata_study/blob/main/python/pythonNumpy/7_numpy%E6%95%B0%E7%BB%84%E5%89%AF%E6%9C%ACvs%E8%A7%86%E5%9B%BE.md)
+
+[8. numpy数组重塑](https://github.com/WuZongYun/bigdata_study/blob/main/python/pythonNumpy/8_numpy%E6%95%B0%E7%BB%84%E9%87%8D%E5%A1%91.md)
+
+[9. numpy数组迭代](https://github.com/WuZongYun/bigdata_study/blob/main/python/pythonNumpy/9_numpy%E6%95%B0%E7%BB%84%E8%BF%AD%E4%BB%A3.md)
+
+[10. numpy数组连接](https://github.com/WuZongYun/bigdata_study/blob/main/python/pythonNumpy/10_numpy%E6%95%B0%E7%BB%84%E8%BF%9E%E6%8E%A5.md)
+
+[11. numpy数组拆分](https://github.com/WuZongYun/bigdata_study/blob/main/python/pythonNumpy/11_numpy%E6%95%B0%E7%BB%84%E6%8B%86%E5%88%86.md)
+
+[12. numpy数组搜索](https://github.com/WuZongYun/bigdata_study/blob/main/python/pythonNumpy/12_numpy%E6%95%B0%E7%BB%84%E6%90%9C%E7%B4%A2.md)
+
+[13. numpy数组排序](https://github.com/WuZongYun/bigdata_study/blob/main/python/pythonNumpy/13_numpy%E6%95%B0%E7%BB%84%E6%8E%92%E5%BA%8F.md)
+
+[14. numpy数组过滤](https://github.com/WuZongYun/bigdata_study/blob/main/python/pythonNumpy/14_numpy%E6%95%B0%E7%BB%84%E8%BF%87%E6%BB%A4.md)
+
+[15. numpy随机数](https://github.com/WuZongYun/bigdata_study/blob/main/python/pythonNumpy/15_numpy%E4%B8%AD%E7%9A%84%E9%9A%8F%E6%9C%BA%E6%95%B0.md)
+
+[16. numpyUfuncs](https://github.com/WuZongYun/bigdata_study/blob/main/python/pythonNumpy/16_numpyufuncs.md)
+
+
 * [3.python Pandas](https://github.com/WuZongYun/bigdata_study/tree/main/python/pythonPandas)
 
 ### [二、shell](https://github.com/WuZongYun/bigdata_study/tree/main/shell)
