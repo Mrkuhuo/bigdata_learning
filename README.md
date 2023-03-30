@@ -20,7 +20,7 @@
 
 ## [三、大数据基础环境准备](https://github.com/WuZongYun/bigdata_study/tree/main/%E5%A4%A7%E6%95%B0%E6%8D%AE%E5%9F%BA%E7%A1%80%E7%8E%AF%E5%A2%83%E6%90%AD%E5%BB%BA)
 
-[1. 安装虚拟机](https://github.com/WuZongYun/bigdata_study/blob/main/%E5%A4%A7%E6%95%B0%E6%8D%AE%E5%9F%BA%E7%A1%80%E7%8E%AF%E5%A2%83%E6%90%AD%E5%BB%BA/1_%E5%AE%89%E8%A3%85%E8%99%9A%E6%8B%9F%E6%9C%BA.md)
+[1. 安装虚拟机Centos7](https://github.com/WuZongYun/bigdata_study/blob/main/%E5%A4%A7%E6%95%B0%E6%8D%AE%E5%9F%BA%E7%A1%80%E7%8E%AF%E5%A2%83%E6%90%AD%E5%BB%BA/1_%E5%AE%89%E8%A3%85%E8%99%9A%E6%8B%9F%E6%9C%BA.md)
 
 [2. 安装MobaXterm](https://github.com/WuZongYun/bigdata_study/blob/main/%E5%A4%A7%E6%95%B0%E6%8D%AE%E5%9F%BA%E7%A1%80%E7%8E%AF%E5%A2%83%E6%90%AD%E5%BB%BA/2_%E5%AE%89%E8%A3%85MobaXterm.md)
 
@@ -34,7 +34,7 @@
 
 [1. hadoop基本概念](https://github.com/WuZongYun/bigdata_study/blob/main/hadoop/1_hadoop%E5%9F%BA%E6%9C%AC%E6%A6%82%E5%BF%B5.md)
 
-[5. hadoop集群安装](https://github.com/WuZongYun/bigdata_study/blob/main/hadoop/2_hadoop%E5%AE%89%E8%A3%85.md)
+[2. hadoop集群安装](https://github.com/WuZongYun/bigdata_study/blob/main/hadoop/2_hadoop%E5%AE%89%E8%A3%85.md)
 
 ## [**五、hive**](https://github.com/WuZongYun/bigdata_study/tree/main/shell)
 
