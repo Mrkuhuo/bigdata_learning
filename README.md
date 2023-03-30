@@ -28,6 +28,8 @@
 
 [4. centos7安装JDK1.8](https://github.com/WuZongYun/bigdata_study/blob/main/%E5%A4%A7%E6%95%B0%E6%8D%AE%E5%9F%BA%E7%A1%80%E7%8E%AF%E5%A2%83%E6%90%AD%E5%BB%BA/4_centos7%E5%AE%89%E8%A3%85JDK.md)
 
+[5. centos7安装mysql](https://github.com/WuZongYun/bigdata_study/blob/main/%E5%A4%A7%E6%95%B0%E6%8D%AE%E5%9F%BA%E7%A1%80%E7%8E%AF%E5%A2%83%E6%90%AD%E5%BB%BA/5_Centos7%E5%AE%89%E8%A3%85mysql.md)
+
 ## [**四、hadoop**](https://github.com/WuZongYun/bigdata_study/tree/main/shell)
 
 ## [**五、hive**](https://github.com/WuZongYun/bigdata_study/tree/main/shell)
