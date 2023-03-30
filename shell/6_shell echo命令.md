@@ -1,4 +1,4 @@
-### Shell echo命令
+# 六、Shell echo命令
 
 Shell 的 echo 指令与 PHP 的 echo 指令类似，都是用于字符串的输出。命令格式：
 

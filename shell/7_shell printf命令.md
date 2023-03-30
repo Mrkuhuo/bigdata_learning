@@ -1,4 +1,4 @@
-### Shell printf 命令
+# 七、Shell printf 命令
 
 上一章节我们学习了 Shell 的 echo 命令，本章节我们来学习 Shell 的另一个输出命令 printf。
 
