@@ -32,6 +32,10 @@
 
 ## [**四、hadoop**](https://github.com/WuZongYun/bigdata_study/tree/main/shell)
 
+[1. hadoop基本概念](https://github.com/WuZongYun/bigdata_study/blob/main/hadoop/1_hadoop%E5%9F%BA%E6%9C%AC%E6%A6%82%E5%BF%B5.md)
+
+[5. hadoop集群安装](https://github.com/WuZongYun/bigdata_study/blob/main/hadoop/2_hadoop%E5%AE%89%E8%A3%85.md)
+
 ## [**五、hive**](https://github.com/WuZongYun/bigdata_study/tree/main/shell)
 
 ## [**六、zookeeper**](https://github.com/WuZongYun/bigdata_study/tree/main/shell)
