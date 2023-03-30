@@ -216,3 +216,4 @@ $ rm -r /usr/local/src/software/hadoop-2.8.2/tmp/name     # 删除 tmp 文件，
 $ hdfs namenode -format   # 重新格式化名称节点
 $ ./start-all.sh  # 重启
 ```
+
