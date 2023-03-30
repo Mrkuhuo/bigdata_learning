@@ -25,5 +25,58 @@
 
 [3. centos7免密设置](https://github.com/WuZongYun/bigdata_study/blob/main/%E5%A4%A7%E6%95%B0%E6%8D%AE%E5%9F%BA%E7%A1%80%E7%8E%AF%E5%A2%83%E6%90%AD%E5%BB%BA/3_centos7%E5%85%8D%E5%AF%86%E8%AE%BE%E7%BD%AE.md)
 
+[4. centos7安装JDK1.8](https://github.com/WuZongYun/bigdata_study/blob/main/%E5%A4%A7%E6%95%B0%E6%8D%AE%E5%9F%BA%E7%A1%80%E7%8E%AF%E5%A2%83%E6%90%AD%E5%BB%BA/4_centos7%E5%AE%89%E8%A3%85JDK.md)
 
+## [**四、hadoop**](https://github.com/WuZongYun/bigdata_study/tree/main/shell)
 
+## [**五、hive**](https://github.com/WuZongYun/bigdata_study/tree/main/shell)
+
+## [**六、zookeeper**](https://github.com/WuZongYun/bigdata_study/tree/main/shell)
+
+## [**七、hbase**](https://github.com/WuZongYun/bigdata_study/tree/main/shell)
+
+## [**八、flume**](https://github.com/WuZongYun/bigdata_study/tree/main/shell)
+
+## [**九、kafka**](https://github.com/WuZongYun/bigdata_study/tree/main/shell)
+
+## [**十、spark**](https://github.com/WuZongYun/bigdata_study/tree/main/shell)
+
+## [**十一、flink**](https://github.com/WuZongYun/bigdata_study/tree/main/shell)
+
+## [**十二、dolphinscheduler**](https://github.com/WuZongYun/bigdata_study/tree/main/shell)
+
+## [**十三、elasticsearch**](https://github.com/WuZongYun/bigdata_study/tree/main/shell)
+
+## [**十四、sqoop**](https://github.com/WuZongYun/bigdata_study/tree/main/shell)
+
+## [**十五、clickhouse**](https://github.com/WuZongYun/bigdata_study/tree/main/shell)
+
+## [**十六、flinkcCDC**](https://github.com/WuZongYun/bigdata_study/tree/main/shell)
+
+## [**十七、canal**](https://github.com/WuZongYun/bigdata_study/tree/main/shell)
+
+## [**十八、debezium**](https://github.com/WuZongYun/bigdata_study/tree/main/shell)
+
+## [**十九、datax**](https://github.com/WuZongYun/bigdata_study/tree/main/shell)
+
+## [**二十、hudi**](https://github.com/WuZongYun/bigdata_study/tree/main/shell)
+
+## [**二十一、starrocks**](https://github.com/WuZongYun/bigdata_study/tree/main/shell)
+
+## [**二十二、iceberg**](https://github.com/WuZongYun/bigdata_study/tree/main/shell)
+
+## [**二十三、doris**](https://github.com/WuZongYun/bigdata_study/tree/main/shell)
+
+## [**二十四、cdh centos**](https://github.com/WuZongYun/bigdata_study/tree/main/shell)
+
+## [**二十五、cdh ubuntu**](https://github.com/WuZongYun/bigdata_study/tree/main/shell)
+
+## [**二十六、superset**](https://github.com/WuZongYun/bigdata_study/tree/main/shell)
+
+## [**二十七、docker**](https://github.com/WuZongYun/bigdata_study/tree/main/shell)
+
+## [**二十八、kubernetes**](https://github.com/WuZongYun/bigdata_study/tree/main/shell)
+
+## [**二十九、streampark**](https://github.com/WuZongYun/bigdata_study/tree/main/shell)
+
+## [**三十、maxwell**](https://github.com/WuZongYun/bigdata_study/tree/main/shell)
