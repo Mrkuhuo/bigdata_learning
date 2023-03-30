@@ -1,4 +1,4 @@
-## 什么是 Python？
+# 一、什么是 Python？
 
 Python 是一门流行的编程语言。它由 Guido van Rossum 创建，于 1991 年发布。
 它用于：
@@ -29,7 +29,7 @@ Python 是一门流行的编程语言。它由 Guido van Rossum 创建，于 199
 * Python 使用新行来完成命令，而不像通常使用分号或括号的其他编程语言。
 * Python 依赖缩进，使用空格来定义范围；例如循环、函数和类的范围。其他编程语言通常使用花括号来实现此目的。
 
-# Python 快速入门
+# 二、Python 快速入门
 
 Python 是一门解释型编程语言，这意味着作为开发人员，您可以在文本编辑器中编写 Python（.py）文件，然后将这些文件放入 python 解释器中执行。
 
@@ -40,7 +40,7 @@ print("Hello, World!")
 
 Hello, World!
 
-# Python 缩进
+# 三、Python 缩进
 
 缩进指的是代码行开头的空格。
 
@@ -104,7 +104,7 @@ Python 中的注释：
 print("Hello, World!")
 ```
 
-# python注释
+# 四、python注释
 
 注释可用于解释 Python 代码。
 注释可用于提高代码的可读性。
@@ -152,7 +152,7 @@ print("Hello, World!")
 
 只要字符串未分配给变量，Python 就会读取代码，然后忽略它，这样您就已经完成了多行注释。
 
-# 创建变量
+# 五、创建变量
 
 变量是存放数据值的容器。
 与其他编程语言不同，Python 没有声明变量的命令。
@@ -326,7 +326,7 @@ print("Python is " + x)
 ```
 Python is fantastic
 
-# 内置数据类型
+# 六、内置数据类型
 
 在编程中，数据类型是一个重要的概念。
 变量可以存储不同类型的数据，并且不同类型可以执行不同的操作。
@@ -416,7 +416,7 @@ x = bytearray(5) bytearray
 
 x = memoryview(bytes(5) )memoryview
 
-# Python 数字
+# 七、Python 数字
 
 Python 中有三种数字类型：
 
@@ -505,7 +505,7 @@ print(type(c))
 
 注意：您无法将复数转换为其他数字类型。
 
-# 字符串字面量
+# 八、字符串字面量
 
 python 中的字符串字面量由单引号或双引号括起。
 
@@ -766,7 +766,7 @@ Python 有一组可以在字符串上使用的内建方法。
 | [upper()](https://www.w3school.com.cn/python/ref_string_upper.asp)               | 把字符串转换为大写。                               |
 | [zfill()](https://www.w3school.com.cn/python/ref_string_zfill.asp)               | 在字符串的开头填充指定数量的 0 值。                |
 
-# 布尔值
+# 九、布尔值
 
 **布尔表示两值之一：True 或 False。**
 
@@ -827,7 +827,7 @@ bool({})
 
 False
 
-# Python 运算符
+# 十、Python 运算符
 
 运算符用于对变量和值执行操作。
 Python 在以下组中划分运算符：
@@ -1117,7 +1117,7 @@ print("pineapple" not in x)
 
 True
 
-# Python 集合（数组）
+# 十一、Python 集合（数组）
 
 Python 编程语言中有四种集合数据类型：
 * 列表（List）是一种有序和可更改的集合。允许重复的成员。
@@ -1513,7 +1513,7 @@ print(cars)
 
 ['BMW', 'Porsche', 'Volvo']
 
-# 元组（Tuple）
+# 十二、元组（Tuple）
 
 元组是有序且不可更改的集合。在 Python 中，元组是用圆括号编写的。
 
@@ -1729,7 +1729,7 @@ print(x)
 ```
 3
 
-# python集合
+# 十三、python集合
 
 集合是无序和无索引的集合。在 Python 中，集合用花括号编写。
 
@@ -2121,7 +2121,7 @@ print(x)
 
 {'banana', 'apple', 'cherry', 'google', 'microsoft'}
 
-# 字典（Dictionary）
+# 十四、字典（Dictionary）
 
 字典是一个无序、可变和有索引的集合。在 Python 中，字典用花括号编写，拥有键和值。
 
@@ -2800,7 +2800,7 @@ if b > a:
   pass
 ```
 
-# Python 循环
+# 十五、Python 循环
 
 Python 有两个原始的循环命令：
 
@@ -2887,7 +2887,7 @@ else:
 5
 i is no longer less than 6
 
-# Python For 循环
+# 十六、Python For 循环
 
 for 循环用于迭代序列（即列表，元组，字典，集合或字符串）。
 
@@ -3104,7 +3104,7 @@ for x in [0, 1, 2]:
   pass
 ```
 
-# python函数
+# 十七、python函数
 
 **函数是一种仅在调用时运行的代码块。**
 
@@ -3288,7 +3288,7 @@ Recursion Example Results
 
 21
 
-# python Lambda
+# 十八、python Lambda
 
 **lambda 函数是一种小的匿名函数。**
 
@@ -3323,7 +3323,7 @@ print(x(5, 6, 2))
 
 13
 
-# Python 类/对象
+# 十九、Python 类/对象
 
 Python 是一种面向对象的编程语言。
 
@@ -3461,7 +3461,7 @@ del p1
 class Person:
   pass
 ```
-# Python 继承
+# 二十、Python 继承
 
 继承允许我们定义继承另一个类的所有方法和属性的类。
 
@@ -3611,7 +3611,7 @@ Welcome Elon Musk to the class of 2019
 
 **提示：如果您在子类中添加一个与父类中的函数同名的方法，则将覆盖父方法的继承。**
 
-# Python 迭代器
+# 二十一、Python 迭代器
 
 迭代器是一种对象，该对象包含值的可计数数字。
 
@@ -3712,7 +3712,7 @@ a
 
 **提示：for 循环实际上创建了一个迭代器对象，并为每个循环执行 next() 方法。**
 
-# 作用域
+# 二十二、作用域
 
 **变量仅在创建区域内可用。这称为作用域。**
 
@@ -3833,7 +3833,7 @@ print(x)
 
 200
 
-# 什么是模块？
+# 二十三、什么是模块？
 
 请思考与代码库类似的模块。
 
@@ -3959,7 +3959,7 @@ print (person1["age"])
 
 **提示：在使用 from 关键字导入时，请勿在引用模块中的元素时使用模块名称。示例：person1["age"]，而不是 mymodule.person1["age"]。**
 
-# Python 日期
+# 二十四、Python 日期
 
 Python 中的日期不是其自身的数据类型，但是我们可以导入名为 datetime 的模块，把日期视作日期对象进行处理。
 
@@ -4061,7 +4061,7 @@ October
 | %X   | 时间的本地版本                  | 17:41:00                 |
 | %%   | A % character                   | %                        |
 
-# python Json
+# 二十五、python Json
 
 **JSON 是用于存储和交换数据的语法。**
 
@@ -4238,7 +4238,7 @@ json.dumps() 方法提供了对结果中的键进行排序的参数：
 json.dumps(x, indent=4, sort_keys=True)
 ```
 
-# pythonRegEx
+# 二十六、pythonRegEx
 
 **RegEx 或正则表达式是形成搜索模式的字符序列。**
 
@@ -4481,7 +4481,7 @@ China9is9a great country
 | [a-zA-Z]   | 返回字母顺序 a 和 z 之间的任何字符的匹配，小写或大写                                            |
 | [+]        | 在集合中，+、\*、.、\|、()、\$、{} 没有特殊含义，因此 [+] 表示：返回字符串中任何 + 字符的匹配项 |
 
-# 什么是 PIP？
+# 二十七、什么是 PIP？
 
 PIP 是 Python 包或模块的包管理器。
 
@@ -4562,7 +4562,7 @@ pip             18.1
 pymongo         3.6.1
 setuptools      39.0.1
 
-# pythonTryException
+# 二十八、pythonTryException
 
 try 块允许您测试代码块以查找错误。
 
@@ -4688,7 +4688,7 @@ if not type(x) is int:
   raise TypeError("Only integers are allowed")
 ```
 
-# 命令行输入
+# 二十九、命令行输入
 
 Python 允许命令行输入。
 
@@ -4811,7 +4811,7 @@ print(myorder.format(carname = "Porsche", model = "911"))
 
 I have a Porsche, it is a 911.
 
-# 文件处理
+# 三十、文件处理
 
 **文件处理是任何 Web 应用程序的重要组成部分。**
 
@@ -4853,7 +4853,7 @@ f = open("demofile.txt", "rt")
 
 **注释：请确保文件存在，否则您将收到错误消息。**
 
-# 在服务器上打开文件
+# 三十一、在服务器上打开文件
 
 假设我们有以下文件，位于与 Python 相同的文件夹中：
 
@@ -4929,7 +4929,7 @@ print(f.readline())
 f.close()
 ```
 
-# 写入已有文件
+# 三十二、写入已有文件
 
 如需写入已有的文件，必须向 open() 函数添加参数：
 
