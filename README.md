@@ -9,7 +9,7 @@
 
 [ 1. python基础（概念+代码样例+输出结果）](https://github.com/WuZongYun/bigdata_study/blob/main/python/1_python%E5%9F%BA%E7%A1%80.md)
 
-[ 2. python Numpy](https://github.com/WuZongYun/bigdata_study/tree/main/python/pythonNumpy)
+[ 2. python Numpy（NumPy 是用于处理数组的 python 库 概念+代码样例+输出结果）](https://github.com/WuZongYun/bigdata_study/blob/main/python/2_pythonNumpy.md)
 
 [ 3. python Pandas](https://github.com/WuZongYun/bigdata_study/tree/main/python/pythonPandas)
 
