@@ -1,4 +1,4 @@
-### 创建 NumPy ndarray 对象
+# 创建 NumPy ndarray 对象
 
 NumPy 用于处理数组。 NumPy 中的数组对象称为 ndarray。
 

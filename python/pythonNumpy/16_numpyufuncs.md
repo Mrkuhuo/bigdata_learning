@@ -1,4 +1,4 @@
-### 什么是 ufuncs？
+# 什么是 ufuncs？
 
 ufuncs 指的是“通用函数”（Universal Functions），它们是对 ndarray 对象进行操作的 NumPy 函数。
 
