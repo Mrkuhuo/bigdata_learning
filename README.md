@@ -38,6 +38,8 @@
 
 [3. hadoop集群高可用安装（三个节点，HDFS HA）](https://github.com/WuZongYun/bigdata_study/blob/main/hadoop/2_hadoop%E5%AE%89%E8%A3%85.md)
 
+[4. hadoop集群高可用安装（三个节点，YARN HA）](https://github.com/WuZongYun/bigdata_study/blob/main/hadoop/2_hadoop%E5%AE%89%E8%A3%85.md)
+
 ## [**五、hive**](https://github.com/WuZongYun/bigdata_study/tree/main/shell)
 
 ## [**六、zookeeper**](https://github.com/WuZongYun/bigdata_study/tree/main/shell)
