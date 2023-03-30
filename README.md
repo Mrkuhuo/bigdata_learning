@@ -36,7 +36,7 @@
 
 [2. hadoop集群安装（三个节点，master只有一个）](https://github.com/WuZongYun/bigdata_study/blob/main/hadoop/2_hadoop%E5%AE%89%E8%A3%85.md)
 
-
+[3. hadoop集群高可用安装（三个节点，HDFS HA）](https://github.com/WuZongYun/bigdata_study/blob/main/hadoop/2_hadoop%E5%AE%89%E8%A3%85.md)
 
 ## [**五、hive**](https://github.com/WuZongYun/bigdata_study/tree/main/shell)
 
