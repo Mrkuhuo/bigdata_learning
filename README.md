@@ -52,7 +52,7 @@
 
 [3. hive 查询（WHERE子句、HAVING子句、GROUP BY子句、JOIN连接查询等）](https://github.com/WuZongYun/bigdata_study/blob/main/hive/3_hive%E5%AE%9E%E6%88%98.md)
 
-[3. hive 窗口函数（ROW_NUMBER、RANK、DENSE_RANK、NTILE等）](https://github.com/WuZongYun/bigdata_study/blob/main/hive/3_hive%E5%AE%9E%E6%88%98.md)
+[3. hive 窗口函数（ROW_NUMBER、RANK、DENSE_RANK、NTILE等）](https://github.com/WuZongYun/bigdata_study/blob/main/hive/4_hive%20%E7%AA%97%E5%8F%A3%E5%87%BD%E6%95%B0.md)
 
 
 ## [**六、zookeeper**](https://github.com/WuZongYun/bigdata_study/tree/main/shell)
