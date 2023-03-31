@@ -67,7 +67,9 @@
 
 [1. zookeeper安装（集群版）](https://github.com/WuZongYun/bigdata_study/blob/main/zookeeper/1_zookeeper%E5%AE%89%E8%A3%85%EF%BC%88%E9%9B%86%E7%BE%A4%E7%89%88%EF%BC%89.md)
 
-[1. zookeeper基础（架构、用途、数据结构、节点类型、watcher机制）](https://github.com/WuZongYun/bigdata_study/blob/main/zookeeper/1_zookeeper%E5%AE%89%E8%A3%85%EF%BC%88%E9%9B%86%E7%BE%A4%E7%89%88%EF%BC%89.md)
+[2. zookeeper基础（架构、用途、数据结构、节点类型、watcher机制）](https://github.com/WuZongYun/bigdata_study/blob/main/zookeeper/1_zookeeper%E5%AE%89%E8%A3%85%EF%BC%88%E9%9B%86%E7%BE%A4%E7%89%88%EF%BC%89.md)
+
+[1. zookeeper实战（创建节点、 查看节点、更改节点、删除节点）](https://github.com/WuZongYun/bigdata_study/blob/main/zookeeper/1_zookeeper%E5%AE%89%E8%A3%85%EF%BC%88%E9%9B%86%E7%BE%A4%E7%89%88%EF%BC%89.md)
 
 ## [**七、hbase**](https://github.com/WuZongYun/bigdata_study/tree/main/shell)
 
