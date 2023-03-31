@@ -3,7 +3,7 @@
 #### 包含python、mysql、shell、hadoop、hive、zookeeper、hbase、flume、kafka、spark、flink、dolphinscheduler、elasticsearch、sqoop、clickhouse、flinkcdc、canal、debezuim、datax、hudi、starrocks、iceberg、doris、cdh、superset、docker、kubernetes、strampark、maxwell等组件学习、实战、面试 持续更新中...
 
 
-## 码字不易，请路过的朋友们点个★star★鼓励一下~，谢谢。
+## 码字不易，路过的朋友们请点个★star★鼓励一下~，感谢（抱拳）。
 
 ![](./images/img_51.png)
 
