@@ -54,7 +54,9 @@
 
 [4. hive 窗口函数（ROW_NUMBER、RANK、DENSE_RANK、NTILE等）](https://github.com/WuZongYun/bigdata_study/blob/main/hive/4_hive%20%E7%AA%97%E5%8F%A3%E5%87%BD%E6%95%B0.md)
 
-[5. hive 整合 hbase ](https://github.com/WuZongYun/bigdata_study/blob/main/hive/4_hive%20%E7%AA%97%E5%8F%A3%E5%87%BD%E6%95%B0.md)
+[5. hive 整合 hbase ](https://github.com/WuZongYun/bigdata_study/blob/main/hive/5_Hive%E6%95%B4%E5%90%88Hbase.md)
+
+[6. ★hive★ 优化 ](https://github.com/WuZongYun/bigdata_study/blob/main/hive/5_Hive%E6%95%B4%E5%90%88Hbase.md)
 
 ## [**六、zookeeper**](https://github.com/WuZongYun/bigdata_study/tree/main/shell)
 
