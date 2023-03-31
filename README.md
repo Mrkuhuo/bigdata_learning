@@ -50,7 +50,7 @@
 
 [2. hive 基本概念（数据类型、内外部表、分区分桶表、数据倾斜等）](https://github.com/WuZongYun/bigdata_study/blob/main/hive/2_hive%E5%9F%BA%E6%9C%AC%E6%A6%82%E5%BF%B5.md)
 
-[3. hive 实战 （HiveSQL、窗口函数、hive整合hbase等）](https://github.com/WuZongYun/bigdata_study/blob/main/hadoop/6_hadoop%20MapRerduce%E5%AE%9E%E6%88%98.md)
+[3. hive 实战 （HiveSQL、窗口函数）](https://github.com/WuZongYun/bigdata_study/blob/main/hive/3_hive%E5%AE%9E%E6%88%98.md)
 
 
 ## [**六、zookeeper**](https://github.com/WuZongYun/bigdata_study/tree/main/shell)
