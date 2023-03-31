@@ -42,6 +42,8 @@
 
 [5. hadoop shell 命令（在服务器上操作HDFS）](https://github.com/WuZongYun/bigdata_study/blob/main/hadoop/5_hadoop%20shell%20%E5%91%BD%E4%BB%A4.md)
 
+[6. hadoop mapreduce实战（wordcount案例编写](https://github.com/WuZongYun/bigdata_study/blob/main/hadoop/6_hadoop%20MapRerduce%E5%AE%9E%E6%88%98.md)
+
 ## [**五、hive**](https://github.com/WuZongYun/bigdata_study/tree/main/shell)
 
 ## [**六、zookeeper**](https://github.com/WuZongYun/bigdata_study/tree/main/shell)
