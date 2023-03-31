@@ -46,6 +46,13 @@
 
 ## [**五、hive**](https://github.com/WuZongYun/bigdata_study/tree/main/shell)
 
+[1. hive 安装（集群版）](https://github.com/WuZongYun/bigdata_study/blob/main/hadoop/6_hadoop%20MapRerduce%E5%AE%9E%E6%88%98.md)
+
+[2. hive 基本概念](https://github.com/WuZongYun/bigdata_study/blob/main/hadoop/6_hadoop%20MapRerduce%E5%AE%9E%E6%88%98.md)
+
+[3. hive 实战](https://github.com/WuZongYun/bigdata_study/blob/main/hadoop/6_hadoop%20MapRerduce%E5%AE%9E%E6%88%98.md)
+
+
 ## [**六、zookeeper**](https://github.com/WuZongYun/bigdata_study/tree/main/shell)
 
 ## [**七、hbase**](https://github.com/WuZongYun/bigdata_study/tree/main/shell)
