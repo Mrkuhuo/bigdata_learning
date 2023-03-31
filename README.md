@@ -50,9 +50,9 @@
 
 [2. hive 基本概念（数据类型、内外部表、分区分桶表、数据倾斜等）](https://github.com/WuZongYun/bigdata_study/blob/main/hive/2_hive%E5%9F%BA%E6%9C%AC%E6%A6%82%E5%BF%B5.md)
 
-[3. hive 查询](https://github.com/WuZongYun/bigdata_study/blob/main/hive/3_hive%E5%AE%9E%E6%88%98.md)
+[3. hive 查询（WHERE子句、HAVING子句、GROUP BY子句、JOIN连接查询等）](https://github.com/WuZongYun/bigdata_study/blob/main/hive/3_hive%E5%AE%9E%E6%88%98.md)
 
-[3. hive 窗口函数（）](https://github.com/WuZongYun/bigdata_study/blob/main/hive/3_hive%E5%AE%9E%E6%88%98.md)
+[3. hive 窗口函数（ROW_NUMBER、RANK、DENSE_RANK、NTILE等）](https://github.com/WuZongYun/bigdata_study/blob/main/hive/3_hive%E5%AE%9E%E6%88%98.md)
 
 
 ## [**六、zookeeper**](https://github.com/WuZongYun/bigdata_study/tree/main/shell)
