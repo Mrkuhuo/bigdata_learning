@@ -11,6 +11,10 @@
 
 ![](./images/微信公众号.jpg)
 
+## [gitee地址（同步更新）](https://gitee.com/wzylzjtn/bigdata_study)
+
+![](./images/img_249.png)
+
 ## [**一、python**](https://github.com/WuZongYun/bigdata_study/tree/main/python)
 
 [ 1. python基础（概念+代码样例+输出结果）](https://github.com/WuZongYun/bigdata_study/blob/main/python/1_python%E5%9F%BA%E7%A1%80.md)
