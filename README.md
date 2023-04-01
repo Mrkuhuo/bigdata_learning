@@ -11,7 +11,7 @@
 
 ![](./images/微信公众号.jpg)
 
-## [gitee地址（同步更新,可点击访问）](https://gitee.com/wzylzjtn/bigdata_study)
+## [gitee（同步更新,可点击访问）](https://gitee.com/wzylzjtn/bigdata_study)
 
 ![](./images/img_249.png)
 
