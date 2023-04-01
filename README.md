@@ -79,7 +79,7 @@
 
 [3. hbase shell命令](https://github.com/WuZongYun/bigdata_study/blob/main/hbase/3_hbase%20shell%20%E5%91%BD%E4%BB%A4.md)
 
-[4. hbase 实时同步es 案例](https://github.com/WuZongYun/bigdata_study/blob/main/hbase/4_hbase%E5%AE%9E%E6%97%B6%E5%90%8C%E6%AD%A5elasticsearch.md)
+[4. hbase 实时同步elasticsearch 案例](https://github.com/WuZongYun/bigdata_study/blob/main/hbase/4_hbase%E5%AE%9E%E6%97%B6%E5%90%8C%E6%AD%A5elasticsearch.md)
 
 
 ## [**八、flume**](https://github.com/WuZongYun/bigdata_study/tree/main/shell)
