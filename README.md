@@ -7,8 +7,6 @@
 
 ![](./images/logo.png)
 
-test
-
 ## 公众号同步更新中...
 
 ![](./images/微信公众号.jpg)
