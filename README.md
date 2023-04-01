@@ -77,6 +77,8 @@
 
 [2. hbase原理（简介、数据模型、架构、RowKey设计）](https://github.com/WuZongYun/bigdata_study/blob/main/hbase/2_hbase%E5%8E%9F%E7%90%86.md)
 
+[3. hbase shell命令](https://github.com/WuZongYun/bigdata_study/blob/main/hbase/3_hbase%20shell%20%E5%91%BD%E4%BB%A4.md)
+
 ## [**八、flume**](https://github.com/WuZongYun/bigdata_study/tree/main/shell)
 
 ## [**九、kafka**](https://github.com/WuZongYun/bigdata_study/tree/main/shell)
