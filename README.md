@@ -84,7 +84,9 @@
 
 ## [**八、flume**](https://github.com/WuZongYun/bigdata_study/tree/main/shell)
 
-## [**九、kafka**](https://github.com/WuZongYun/bigdata_study/tree/main/shell)
+## [**九、kafka**](https://github.com/WuZongYun/bigdata_study/tree/main/kafka)
+
+[1. kafka 安装（集群版）](https://github.com/WuZongYun/bigdata_study/blob/main/hbase/1_hbase%E5%AE%89%E8%A3%85%EF%BC%88%E9%9B%86%E7%BE%A4%E7%89%88%EF%BC%89.md)
 
 ## [**十、spark**](https://github.com/WuZongYun/bigdata_study/tree/main/shell)
 
