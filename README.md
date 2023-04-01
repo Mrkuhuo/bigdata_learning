@@ -35,7 +35,7 @@
 
 [5. centos7安装mysql（后续用作Hive的元数据库）](https://github.com/WuZongYun/bigdata_study/blob/main/%E5%A4%A7%E6%95%B0%E6%8D%AE%E5%9F%BA%E7%A1%80%E7%8E%AF%E5%A2%83%E6%90%AD%E5%BB%BA/5_Centos7%E5%AE%89%E8%A3%85mysql.md)
 
-## [**四、hadoop**](https://github.com/WuZongYun/bigdata_study/tree/main/shell)
+## [**四、hadoop**](https://github.com/WuZongYun/bigdata_study/tree/main/hadoop)
 
 [1. hadoop基本概念（hdfs、mapreducce、yarn）](https://github.com/WuZongYun/bigdata_study/blob/main/hadoop/1_hadoop%E5%9F%BA%E6%9C%AC%E6%A6%82%E5%BF%B5.md)
 
@@ -49,7 +49,7 @@
 
 [6. hadoop mapreduce实战（wordcount案例编写）](https://github.com/WuZongYun/bigdata_study/blob/main/hadoop/6_hadoop%20MapRerduce%E5%AE%9E%E6%88%98.md)
 
-## [**五、hive**](https://github.com/WuZongYun/bigdata_study/tree/main/shell)
+## [**五、hive**](https://github.com/WuZongYun/bigdata_study/tree/main/hive)
 
 [1. hive 安装（集群版）](https://github.com/WuZongYun/bigdata_study/blob/main/hive/1_hive%E5%AE%89%E8%A3%85.md)
 
@@ -63,7 +63,7 @@
 
 [6. ★hive优化★ （知识星球 https://t.zsxq.com/0ciV8xZJt）](https://t.zsxq.com/0ciV8xZJt)
 
-## [**六、zookeeper**](https://github.com/WuZongYun/bigdata_study/tree/main/shell)
+## [**六、zookeeper**](https://github.com/WuZongYun/bigdata_study/tree/main/zookeeper)
 
 [1. zookeeper安装（集群版）](https://github.com/WuZongYun/bigdata_study/blob/main/zookeeper/1_zookeeper%E5%AE%89%E8%A3%85%EF%BC%88%E9%9B%86%E7%BE%A4%E7%89%88%EF%BC%89.md)
 
@@ -71,7 +71,7 @@
 
 [1. zookeeper实战（创建节点、 查看节点、更改节点、删除节点）](https://github.com/WuZongYun/bigdata_study/blob/main/zookeeper/3_zookeeper%E5%AE%9E%E6%88%98.md)
 
-## [**七、hbase**](https://github.com/WuZongYun/bigdata_study/tree/main/shell)
+## [**七、hbase**](https://github.com/WuZongYun/bigdata_study/tree/main/hbase)
 
 [1. hbase安装（集群版）](https://github.com/WuZongYun/bigdata_study/blob/main/hbase/1_hbase%E5%AE%89%E8%A3%85%EF%BC%88%E9%9B%86%E7%BE%A4%E7%89%88%EF%BC%89.md)
 
