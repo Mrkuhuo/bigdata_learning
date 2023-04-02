@@ -95,6 +95,8 @@
 
 [1. kafka 安装（集群版）](https://github.com/WuZongYun/bigdata_learning/blob/main/kafka/1_kafka%20%E5%AE%89%E8%A3%85%EF%BC%88%E9%9B%86%E7%BE%A4%E7%89%88%EF%BC%89.md)
 
+[1. kafka 难点解析（如何保证消息顺序、如何保证消息不丢、如何处理重复消息、如何处理消息堆积）](https://github.com/WuZongYun/bigdata_learning/blob/main/kafka/1_kafka%20%E5%AE%89%E8%A3%85%EF%BC%88%E9%9B%86%E7%BE%A4%E7%89%88%EF%BC%89.md)
+
 ## [**十、spark**](https://github.com/WuZongYun/bigdata_study/tree/main/shell)
 
 ## [**十一、flink**](https://github.com/WuZongYun/bigdata_study/tree/main/shell)
@@ -136,3 +138,5 @@
 ## [**二十九、streampark**](https://github.com/WuZongYun/bigdata_study/tree/main/shell)
 
 ## [**三十、maxwell**](https://github.com/WuZongYun/bigdata_study/tree/main/shell)
+
+## [**大数据面试系列**](https://github.com/WuZongYun/bigdata_study/tree/main/shell)
