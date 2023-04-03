@@ -99,7 +99,7 @@
 
 [3. kafka 面试30问](https://github.com/WuZongYun/bigdata_learning/blob/main/kafka/3_kafka%E7%9B%B8%E5%85%B3%E7%9F%A5%E8%AF%86%E7%82%B9.md)
 
-
+[4. kafka 分区数真的越多越好吗](https://github.com/WuZongYun/bigdata_learning/blob/main/kafka/4_Kafka%20%E5%88%86%E5%8C%BA.md)
 
 ## [**十、spark**](https://github.com/WuZongYun/bigdata_study/tree/main/shell)
 
