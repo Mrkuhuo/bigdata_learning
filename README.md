@@ -97,6 +97,8 @@
 
 [2. kafka 难点解析（如何保证消息顺序、如何保证消息不丢、如何处理重复消息、如何处理消息堆积）](https://github.com/WuZongYun/bigdata_learning/blob/main/kafka/2_kafka%E9%9D%A2%E8%AF%95_Kafka%20%E5%9F%BA%E6%9C%AC%E6%A6%82%E5%BF%B5%E5%92%8C%E6%9E%B6%E6%9E%84.md)
 
+[3. kafka 面试致命30问（每一问都很重要）](https://github.com/WuZongYun/bigdata_learning/blob/main/kafka/3_kafka%E7%9B%B8%E5%85%B3%E7%9F%A5%E8%AF%86%E7%82%B9.md)
+
 ## [**十、spark**](https://github.com/WuZongYun/bigdata_study/tree/main/shell)
 
 ## [**十一、flink**](https://github.com/WuZongYun/bigdata_study/tree/main/shell)
