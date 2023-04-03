@@ -95,7 +95,7 @@
 
 [1. kafka 安装（集群版）](https://github.com/WuZongYun/bigdata_learning/blob/main/kafka/1_kafka%20%E5%AE%89%E8%A3%85%EF%BC%88%E9%9B%86%E7%BE%A4%E7%89%88%EF%BC%89.md)
 
-[1. kafka 难点解析（如何保证消息顺序、如何保证消息不丢、如何处理重复消息、如何处理消息堆积）](https://github.com/WuZongYun/bigdata_learning/blob/main/kafka/2_kafka%E9%9D%A2%E8%AF%95_Kafka%20%E5%9F%BA%E6%9C%AC%E6%A6%82%E5%BF%B5%E5%92%8C%E6%9E%B6%E6%9E%84.md)
+[2. kafka 难点解析（如何保证消息顺序、如何保证消息不丢、如何处理重复消息、如何处理消息堆积）](https://github.com/WuZongYun/bigdata_learning/blob/main/kafka/2_kafka%E9%9D%A2%E8%AF%95_Kafka%20%E5%9F%BA%E6%9C%AC%E6%A6%82%E5%BF%B5%E5%92%8C%E6%9E%B6%E6%9E%84.md)
 
 ## [**十、spark**](https://github.com/WuZongYun/bigdata_study/tree/main/shell)
 
