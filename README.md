@@ -101,6 +101,8 @@
 
 [4. kafka 分区数真的越多越好吗](https://github.com/WuZongYun/bigdata_learning/blob/main/kafka/4_Kafka%20%E5%88%86%E5%8C%BA.md)
 
+[5. kafka 事务实现原理](https://github.com/WuZongYun/bigdata_learning/blob/main/kafka/5_Kafka%20%E4%BA%8B%E5%8A%A1%E7%9A%84%E5%AE%9E%E7%8E%B0%E5%8E%9F%E7%90%86.md)
+
 ## [**十、spark**](https://github.com/WuZongYun/bigdata_study/tree/main/shell)
 
 ## [**十一、flink**](https://github.com/WuZongYun/bigdata_study/tree/main/shell)
