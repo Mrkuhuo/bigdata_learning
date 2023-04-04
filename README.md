@@ -105,6 +105,8 @@
 
 [6. kafka 常见故障处理](https://github.com/WuZongYun/bigdata_learning/blob/main/kafka/6_Kafka%E5%B8%B8%E8%A7%81%E6%95%85%E9%9A%9C%E5%A4%84%E7%90%86.md)
 
+[7. kafka 真实项目最佳实践](https://github.com/WuZongYun/bigdata_learning/blob/main/kafka/7_kafka%E7%9C%9F%E5%AE%9E%E9%A1%B9%E7%9B%AE%E6%9C%80%E4%BD%B3%E5%AE%9E%E8%B7%B5.md)
+
 ## [**十、spark**](https://github.com/WuZongYun/bigdata_study/tree/main/shell)
 
 ## [**十一、flink**](https://github.com/WuZongYun/bigdata_study/tree/main/shell)
