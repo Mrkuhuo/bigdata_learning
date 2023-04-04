@@ -7,15 +7,13 @@
 
 ![](./images/logo.png)
 
-## 公众号同步更新中...
-
-![](./images/微信公众号.jpg)
-
 ## [gitee（同步更新,可点击访问）](https://gitee.com/wzylzjtn/bigdata_study)
 
 ![](./images/img_249.png)
 
+## 公众号同步更新中...
 
+![](./images/微信公众号.jpg)
 
 
 ## [**一、python**](https://github.com/WuZongYun/bigdata_study/tree/main/python)
