@@ -66,7 +66,7 @@
 
 [5. hive 整合 hbase ](https://github.com/WuZongYun/bigdata_study/blob/main/hive/5_Hive%E6%95%B4%E5%90%88Hbase.md)
 
-[6. ★hive优化★ （知识星球 https://t.zsxq.com/0ciV8xZJt）](https://t.zsxq.com/0ciV8xZJt)
+[6. ★hive优化★ （知识星球）](https://t.zsxq.com/0ciV8xZJt)
 
 ## [**六、zookeeper**](https://github.com/WuZongYun/bigdata_study/tree/main/zookeeper)
 
