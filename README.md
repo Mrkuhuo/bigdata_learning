@@ -103,6 +103,8 @@
 
 [5. kafka 事务实现原理](https://github.com/WuZongYun/bigdata_learning/blob/main/kafka/5_Kafka%20%E4%BA%8B%E5%8A%A1%E7%9A%84%E5%AE%9E%E7%8E%B0%E5%8E%9F%E7%90%86.md)
 
+[6. kafka 常见故障处理](https://github.com/WuZongYun/bigdata_learning/blob/main/kafka/6_Kafka%E5%B8%B8%E8%A7%81%E6%95%85%E9%9A%9C%E5%A4%84%E7%90%86.md)
+
 ## [**十、spark**](https://github.com/WuZongYun/bigdata_study/tree/main/shell)
 
 ## [**十一、flink**](https://github.com/WuZongYun/bigdata_study/tree/main/shell)
