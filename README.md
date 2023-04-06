@@ -28,9 +28,9 @@
 
 [ 1. shell基础](http://t.csdn.cn/A0GkA)
 
-## [三、大数据基础环境准备](https://github.com/WuZongYun/bigdata_study/tree/main/%E5%A4%A7%E6%95%B0%E6%8D%AE%E5%9F%BA%E7%A1%80%E7%8E%AF%E5%A2%83%E6%90%AD%E5%BB%BA)
+## [三、大数据基础环境准备]()
 
-[1. 安装虚拟机Centos7](https://github.com/WuZongYun/bigdata_study/blob/main/%E5%A4%A7%E6%95%B0%E6%8D%AE%E5%9F%BA%E7%A1%80%E7%8E%AF%E5%A2%83%E6%90%AD%E5%BB%BA/1_%E5%AE%89%E8%A3%85%E8%99%9A%E6%8B%9F%E6%9C%BA.md)
+[1. 安装虚拟机Centos7](http://t.csdn.cn/iKPOc)
 
 [2. 安装MobaXterm ](https://github.com/WuZongYun/bigdata_study/blob/main/%E5%A4%A7%E6%95%B0%E6%8D%AE%E5%9F%BA%E7%A1%80%E7%8E%AF%E5%A2%83%E6%90%AD%E5%BB%BA/2_%E5%AE%89%E8%A3%85MobaXterm.md)
 
@@ -110,6 +110,8 @@
 ## [**十一、flink**](https://github.com/WuZongYun/bigdata_study/tree/main/shell)
 
 [1. flink 面试 100 问 ](https://github.com/WuZongYun/bigdata_learning/blob/main/flink/1_flink%20%E9%9D%A2%E8%AF%95110%E9%97%AE.md)
+
+[2. flink 消费kafka的四种起始位置 ](https://mp.weixin.qq.com/s?__biz=Mzg5Mzg3MzkwNA==&mid=2247484619&idx=1&sn=332aaf9cac741a58c190f5a280af3628&chksm=c0297f54f75ef642880d80a9e0e18110045c61faefe431d3a660d915e7f5340c0e95cfc346b8#rd)
 
 ## [**十二、dolphinscheduler**](https://github.com/WuZongYun/bigdata_study/tree/main/shell)
 
