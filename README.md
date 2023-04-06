@@ -32,23 +32,25 @@
 
 [ 1. shell基础](http://t.csdn.cn/A0GkA)
 
-[ 2. 一键搭建hive集群](https://mp.weixin.qq.com/s?__biz=Mzg5Mzg3MzkwNA==&mid=2247484544&idx=1&sn=cd889d3d946ad6ec21be60e37aee5d85&chksm=c0297f1ff75ef6090c82387e754c15febf86d0840bf73b9ba405b50db9ebedb4f2b8cfddf46d#rd)
+[ 2. 安装包下载](https://mp.weixin.qq.com/s?__biz=Mzg5Mzg3MzkwNA==&mid=2247484608&idx=1&sn=5d3b278d81cd11f518f2122e012f7436&chksm=c0297f5ff75ef649f093bc4d1a5a7a3e7e4e138ff125c917d55849200d4121dbefcb6521e9c4#rd)
 
-[ 3. 一键搭建dolphinscheduler集群](https://mp.weixin.qq.com/s?__biz=Mzg5Mzg3MzkwNA==&mid=2247484589&idx=1&sn=d687acc586ad1cc5e40a5887f4255380&chksm=c0297f32f75ef62496cd3981116160aacb1d1532b691498740ea973dbe3dfe44d0a6e302eb6c#rd)
+[ 3. 一键搭建hive集群](https://mp.weixin.qq.com/s?__biz=Mzg5Mzg3MzkwNA==&mid=2247484544&idx=1&sn=cd889d3d946ad6ec21be60e37aee5d85&chksm=c0297f1ff75ef6090c82387e754c15febf86d0840bf73b9ba405b50db9ebedb4f2b8cfddf46d#rd)
 
-[ 4. 一键搭建flume集群](https://mp.weixin.qq.com/s?__biz=Mzg5Mzg3MzkwNA==&mid=2247484577&idx=1&sn=160dfe50896c903941e9fff75d040bd9&chksm=c0297f3ef75ef628681bc60a24f70e7aa21278c6cbd7cdd5196311c4b2294e26d006df00b778#rd)
+[ 4. 一键搭建dolphinscheduler集群](https://mp.weixin.qq.com/s?__biz=Mzg5Mzg3MzkwNA==&mid=2247484589&idx=1&sn=d687acc586ad1cc5e40a5887f4255380&chksm=c0297f32f75ef62496cd3981116160aacb1d1532b691498740ea973dbe3dfe44d0a6e302eb6c#rd)
 
-[ 5. 一键搭建elasticsearch集群](https://mp.weixin.qq.com/s?__biz=Mzg5Mzg3MzkwNA==&mid=2247484571&idx=1&sn=16c1e005cbfd41531bfb0481155bf99f&chksm=c0297f04f75ef612f0e0dfac0c992506e07efa6c910ac992a8c28d4d88e31a1030a01622a50b#rd)
+[ 5. 一键搭建flume集群](https://mp.weixin.qq.com/s?__biz=Mzg5Mzg3MzkwNA==&mid=2247484577&idx=1&sn=160dfe50896c903941e9fff75d040bd9&chksm=c0297f3ef75ef628681bc60a24f70e7aa21278c6cbd7cdd5196311c4b2294e26d006df00b778#rd)
 
-[ 6. 一键搭建flink集群](https://mp.weixin.qq.com/s?__biz=Mzg5Mzg3MzkwNA==&mid=2247484563&idx=1&sn=d919758b875e3fcf10b496b9d4faf946&chksm=c0297f0cf75ef61a66eac52758a72df06fa841022fb3ad1997aefcb0e019dc100b5a062a7bd9#rd)
+[ 6. 一键搭建elasticsearch集群](https://mp.weixin.qq.com/s?__biz=Mzg5Mzg3MzkwNA==&mid=2247484571&idx=1&sn=16c1e005cbfd41531bfb0481155bf99f&chksm=c0297f04f75ef612f0e0dfac0c992506e07efa6c910ac992a8c28d4d88e31a1030a01622a50b#rd)
 
-[ 6. 一键搭建flink集群](https://mp.weixin.qq.com/s?__biz=Mzg5Mzg3MzkwNA==&mid=2247484563&idx=1&sn=d919758b875e3fcf10b496b9d4faf946&chksm=c0297f0cf75ef61a66eac52758a72df06fa841022fb3ad1997aefcb0e019dc100b5a062a7bd9#rd)
+[ 7. 一键搭建flink集群](https://mp.weixin.qq.com/s?__biz=Mzg5Mzg3MzkwNA==&mid=2247484563&idx=1&sn=d919758b875e3fcf10b496b9d4faf946&chksm=c0297f0cf75ef61a66eac52758a72df06fa841022fb3ad1997aefcb0e019dc100b5a062a7bd9#rd)
 
-[ 7.  一键搭建hbase集群](https://mp.weixin.qq.com/s?__biz=Mzg5Mzg3MzkwNA==&mid=2247484556&idx=1&sn=3a8041ac1acdd6e1930f71878218c2b5&chksm=c0297f13f75ef60587a53d64db45827d94998d39a17ed4bcb646a9a9ac6f23f301f789a92cd0#rd)
+[ 8. 一键搭建flink集群](https://mp.weixin.qq.com/s?__biz=Mzg5Mzg3MzkwNA==&mid=2247484563&idx=1&sn=d919758b875e3fcf10b496b9d4faf946&chksm=c0297f0cf75ef61a66eac52758a72df06fa841022fb3ad1997aefcb0e019dc100b5a062a7bd9#rd)
 
-[ 8.  一键搭建kafka集群](https://mp.weixin.qq.com/s?__biz=Mzg5Mzg3MzkwNA==&mid=2247484550&idx=1&sn=14115d7fd9e57b389bd18f43ec168915&chksm=c0297f19f75ef60fdce64f1e3ba9985eabf00825d26a8a256d39f83ee1cc3f877fa8dd0fbb5e#rd)
+[ 9.  一键搭建hbase集群](https://mp.weixin.qq.com/s?__biz=Mzg5Mzg3MzkwNA==&mid=2247484556&idx=1&sn=3a8041ac1acdd6e1930f71878218c2b5&chksm=c0297f13f75ef60587a53d64db45827d94998d39a17ed4bcb646a9a9ac6f23f301f789a92cd0#rd)
 
-[ 9.  一键搭建hadoop集群](https://mp.weixin.qq.com/s?__biz=Mzg5Mzg3MzkwNA==&mid=2247484538&idx=1&sn=89cfa05ecfc152464530e485bfcbb871&chksm=c0297fe5f75ef6f3451d87d6e910456d58c746ff6766cd585fba1f85dc881f5c4f7a5682ad18#rd)
+[ 10.  一键搭建kafka集群](https://mp.weixin.qq.com/s?__biz=Mzg5Mzg3MzkwNA==&mid=2247484550&idx=1&sn=14115d7fd9e57b389bd18f43ec168915&chksm=c0297f19f75ef60fdce64f1e3ba9985eabf00825d26a8a256d39f83ee1cc3f877fa8dd0fbb5e#rd)
+
+[ 11.  一键搭建hadoop集群](https://mp.weixin.qq.com/s?__biz=Mzg5Mzg3MzkwNA==&mid=2247484538&idx=1&sn=89cfa05ecfc152464530e485bfcbb871&chksm=c0297fe5f75ef6f3451d87d6e910456d58c746ff6766cd585fba1f85dc881f5c4f7a5682ad18#rd)
 
 ## [三、大数据基础环境准备]()
 
@@ -64,11 +66,11 @@
 
 ## [**四、hadoop**](https://github.com/WuZongYun/bigdata_study/tree/main/hadoop)
 
-[1. CentOS7安装hadoop集群](https://mp.weixin.qq.com/s?__biz=Mzg5Mzg3MzkwNA==&mid=2247484239&idx=1&sn=ee2807a486b0119c0a3896ea255d1968&chksm=c02978d0f75ef1c64162631ed1e5610779ae82a294fd24be2d76aa91f7e9f258514c28587530#rd)
+[1. CentOS7安装hadoop集群](https://mp.weixin.qq.com/s?__biz=Mzg5Mzg3MzkwNA==&mid=2247484650&idx=1&sn=21016d7e2536098ab0e180dd92145665&chksm=c0297f75f75ef66359b8441d6cc2a0241828ffad4de197ff1f0911471fc79a5fc218d49c1eb6#rd)
 
-[2. hadoop集群高可用安装](https://github.com/WuZongYun/bigdata_study/blob/main/hadoop/3_hadoop%E9%AB%98%E5%8F%AF%E7%94%A8%E5%AE%89%E8%A3%85%EF%BC%88HDFS%20HA%EF%BC%89.md)
+[2. hadoop基于 HDFS HA 集群高可用安装](https://github.com/WuZongYun/bigdata_study/blob/main/hadoop/3_hadoop%E9%AB%98%E5%8F%AF%E7%94%A8%E5%AE%89%E8%A3%85%EF%BC%88HDFS%20HA%EF%BC%89.md)
 
-[3. hadoop集群高可用安装](https://github.com/WuZongYun/bigdata_study/blob/main/hadoop/4_hadoop%E9%AB%98%E5%8F%AF%E7%94%A8%E5%AE%89%E8%A3%85%EF%BC%88YARN%20HA%EF%BC%89.md)
+[3. hadoop基于 YARN HA 集群高可用安装](https://github.com/WuZongYun/bigdata_study/blob/main/hadoop/4_hadoop%E9%AB%98%E5%8F%AF%E7%94%A8%E5%AE%89%E8%A3%85%EF%BC%88YARN%20HA%EF%BC%89.md)
 
 [4. hadoop shell 命令](https://github.com/WuZongYun/bigdata_study/blob/main/hadoop/5_hadoop%20shell%20%E5%91%BD%E4%BB%A4.md)
 
@@ -86,7 +88,7 @@
 
 [5. hive 整合 hbase ](https://github.com/WuZongYun/bigdata_study/blob/main/hive/5_Hive%E6%95%B4%E5%90%88Hbase.md)
 
-[6. ★hive优化★ （知识星球）](https://t.zsxq.com/0ciV8xZJt)
+[6. ★ hive优化 ★ ](https://t.zsxq.com/0ciV8xZJt)
 
 ## [**六、zookeeper**](https://github.com/WuZongYun/bigdata_study/tree/main/zookeeper)
 
@@ -130,7 +132,7 @@
 
 ## [**十一、flink**](https://github.com/WuZongYun/bigdata_study/tree/main/shell)
 
-[1. flink 面试 100 问 ](https://github.com/WuZongYun/bigdata_learning/blob/main/flink/1_flink%20%E9%9D%A2%E8%AF%95110%E9%97%AE.md)
+[1. flink ★ 面试 100 问 ★ ](https://t.zsxq.com/0c70qqPLO)
 
 [2. flink 消费kafka的四种起始位置 ](https://mp.weixin.qq.com/s?__biz=Mzg5Mzg3MzkwNA==&mid=2247484619&idx=1&sn=332aaf9cac741a58c190f5a280af3628&chksm=c0297f54f75ef642880d80a9e0e18110045c61faefe431d3a660d915e7f5340c0e95cfc346b8#rd)
 
