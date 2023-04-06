@@ -26,6 +26,8 @@
 
 [ 4. Anaconda 搭建pyflink开发环境](https://mp.weixin.qq.com/s?__biz=Mzg5Mzg3MzkwNA==&mid=2247484387&idx=1&sn=755e10001142e4737f5ba460f47b85a7&chksm=c029787cf75ef16a85afd9e7ab50fe3f02918e00ff99bbd0bc26271e2a3e90d41cce9a045579#rd)
 
+[ 5. Anaconda Jupyter Notebook中配置多版本Python](https://mp.weixin.qq.com/s?__biz=Mzg5Mzg3MzkwNA==&mid=2247484373&idx=1&sn=a4bb3a362a8bf69e2aaf85c877ab1aca&chksm=c029784af75ef15c12a45cf4101f89fafc5a858b94db0b45c2616b0b38f52c6e0f8d3d1f75f3#rd)
+
 ## [**二、shell**]()
 
 [ 1. shell基础](http://t.csdn.cn/A0GkA)
@@ -50,33 +52,31 @@
 
 ## [三、大数据基础环境准备]()
 
-[1. 安装虚拟机Centos7](http://t.csdn.cn/iKPOc)
+[1. 安装虚拟机Centos7](https://mp.weixin.qq.com/s?__biz=Mzg5Mzg3MzkwNA==&mid=2247484120&idx=1&sn=02422623ee659ea5a8b5485e55f7b0fa&chksm=c0297947f75ef0514dea5ec0b1ae66d6909addb0f61cbae409e5d37b9880dbf0927910c6d764#rd)
 
-[2. 安装MobaXterm ](https://github.com/WuZongYun/bigdata_study/blob/main/%E5%A4%A7%E6%95%B0%E6%8D%AE%E5%9F%BA%E7%A1%80%E7%8E%AF%E5%A2%83%E6%90%AD%E5%BB%BA/2_%E5%AE%89%E8%A3%85MobaXterm.md)
+[2. 安装MobaXterm ](https://mp.weixin.qq.com/s?__biz=Mzg5Mzg3MzkwNA==&mid=2247484162&idx=1&sn=952292d88c4d0c73bb4521415af330d6&chksm=c029789df75ef18b3f831556080ba6b8ef219bfe54fa6f6a890b93dabde079b93c8a1882a35d#rd)
 
-[3. centos7免密设置](https://github.com/WuZongYun/bigdata_study/blob/main/%E5%A4%A7%E6%95%B0%E6%8D%AE%E5%9F%BA%E7%A1%80%E7%8E%AF%E5%A2%83%E6%90%AD%E5%BB%BA/3_centos7%E5%85%8D%E5%AF%86%E8%AE%BE%E7%BD%AE.md)
+[3. centos7免密设置](https://mp.weixin.qq.com/s?__biz=Mzg5Mzg3MzkwNA==&mid=2247484176&idx=1&sn=cd0d8cdd59340ba15f00bbbed228b7b9&chksm=c029788ff75ef199dee21e7184c1c3f14965ed36403fe5518ab84df7e3ec1c5b33994e138e78#rd)
 
-[4. centos7安装JDK1.8](https://github.com/WuZongYun/bigdata_study/blob/main/%E5%A4%A7%E6%95%B0%E6%8D%AE%E5%9F%BA%E7%A1%80%E7%8E%AF%E5%A2%83%E6%90%AD%E5%BB%BA/4_centos7%E5%AE%89%E8%A3%85JDK.md)
+[4. centos7安装JDK1.8](https://mp.weixin.qq.com/s?__biz=Mzg5Mzg3MzkwNA==&mid=2247484190&idx=1&sn=a3a37ff5cf2f83e35825c8919336c6a9&chksm=c0297881f75ef1973e36f166d9c1b566a9e5756c70e2eaba0e2fd4ff49191b5e5ab565f00919#rd)
 
-[5. centos7安装mysql](https://github.com/WuZongYun/bigdata_study/blob/main/%E5%A4%A7%E6%95%B0%E6%8D%AE%E5%9F%BA%E7%A1%80%E7%8E%AF%E5%A2%83%E6%90%AD%E5%BB%BA/5_Centos7%E5%AE%89%E8%A3%85mysql.md)
+[5. centos7安装mysql](https://mp.weixin.qq.com/s?__biz=Mzg5Mzg3MzkwNA==&mid=2247484226&idx=1&sn=cb0738e5f53380c238fd67758145cb46&chksm=c02978ddf75ef1cb9e70c6df9b91ab6a886ca1982ecf21522c925193a094d5dc4dca34cf07ab#rd)
 
 ## [**四、hadoop**](https://github.com/WuZongYun/bigdata_study/tree/main/hadoop)
 
-[1. hadoop基本概念](https://github.com/WuZongYun/bigdata_study/blob/main/hadoop/1_hadoop%E5%9F%BA%E6%9C%AC%E6%A6%82%E5%BF%B5.md)
+[1. CentOS7安装hadoop集群](https://mp.weixin.qq.com/s?__biz=Mzg5Mzg3MzkwNA==&mid=2247484239&idx=1&sn=ee2807a486b0119c0a3896ea255d1968&chksm=c02978d0f75ef1c64162631ed1e5610779ae82a294fd24be2d76aa91f7e9f258514c28587530#rd)
 
-[2. hadoop集群安装](https://github.com/WuZongYun/bigdata_study/blob/main/hadoop/2_hadoop%E5%AE%89%E8%A3%85.md)
+[2. hadoop集群高可用安装](https://github.com/WuZongYun/bigdata_study/blob/main/hadoop/3_hadoop%E9%AB%98%E5%8F%AF%E7%94%A8%E5%AE%89%E8%A3%85%EF%BC%88HDFS%20HA%EF%BC%89.md)
 
-[3. hadoop集群高可用安装](https://github.com/WuZongYun/bigdata_study/blob/main/hadoop/3_hadoop%E9%AB%98%E5%8F%AF%E7%94%A8%E5%AE%89%E8%A3%85%EF%BC%88HDFS%20HA%EF%BC%89.md)
+[3. hadoop集群高可用安装](https://github.com/WuZongYun/bigdata_study/blob/main/hadoop/4_hadoop%E9%AB%98%E5%8F%AF%E7%94%A8%E5%AE%89%E8%A3%85%EF%BC%88YARN%20HA%EF%BC%89.md)
 
-[4. hadoop集群高可用安装](https://github.com/WuZongYun/bigdata_study/blob/main/hadoop/4_hadoop%E9%AB%98%E5%8F%AF%E7%94%A8%E5%AE%89%E8%A3%85%EF%BC%88YARN%20HA%EF%BC%89.md)
+[4. hadoop shell 命令](https://github.com/WuZongYun/bigdata_study/blob/main/hadoop/5_hadoop%20shell%20%E5%91%BD%E4%BB%A4.md)
 
-[5. hadoop shell 命令](https://github.com/WuZongYun/bigdata_study/blob/main/hadoop/5_hadoop%20shell%20%E5%91%BD%E4%BB%A4.md)
-
-[6. hadoop mapreduce实战](https://github.com/WuZongYun/bigdata_study/blob/main/hadoop/6_hadoop%20MapRerduce%E5%AE%9E%E6%88%98.md)
+[5. hadoop mapreduce实战](https://github.com/WuZongYun/bigdata_study/blob/main/hadoop/6_hadoop%20MapRerduce%E5%AE%9E%E6%88%98.md)
 
 ## [**五、hive**](https://github.com/WuZongYun/bigdata_study/tree/main/hive)
 
-[1. hive 安装（集群版）](https://github.com/WuZongYun/bigdata_study/blob/main/hive/1_hive%E5%AE%89%E8%A3%85.md)
+[1. CentOS7安装hive集群](https://mp.weixin.qq.com/s?__biz=Mzg5Mzg3MzkwNA==&mid=2247484250&idx=1&sn=e2aac10ac2886b07ecf8bf6f8ab009e2&chksm=c02978c5f75ef1d3a7c1258b3c2b1cee13246477787f4c33cf65145d42f5d0d9d567829cb9cb#rd)
 
 [2. hive 基本概念](https://github.com/WuZongYun/bigdata_study/blob/main/hive/2_hive%E5%9F%BA%E6%9C%AC%E6%A6%82%E5%BF%B5.md)
 
@@ -90,7 +90,7 @@
 
 ## [**六、zookeeper**](https://github.com/WuZongYun/bigdata_study/tree/main/zookeeper)
 
-[1. zookeeper安装（集群版）](https://github.com/WuZongYun/bigdata_study/blob/main/zookeeper/1_zookeeper%E5%AE%89%E8%A3%85%EF%BC%88%E9%9B%86%E7%BE%A4%E7%89%88%EF%BC%89.md)
+[1. CentOS7安装zookeeper集群](https://mp.weixin.qq.com/s?__biz=Mzg5Mzg3MzkwNA==&mid=2247484264&idx=1&sn=1aa7a75cf682b2a184641c65e061fdf3&chksm=c02978f7f75ef1e159a6ceb7656ace7d75bad1c945955fc8bb4a93c5cae4c835bc2361f4c197#rd)
 
 [2. zookeeper基础](https://github.com/WuZongYun/bigdata_study/blob/main/zookeeper/2_zookeeper%20%E5%9F%BA%E7%A1%80.md)
 
@@ -98,7 +98,7 @@
 
 ## [**七、hbase**](https://github.com/WuZongYun/bigdata_study/tree/main/hbase)
 
-[1. hbase安装（集群版）](https://github.com/WuZongYun/bigdata_study/blob/main/hbase/1_hbase%E5%AE%89%E8%A3%85%EF%BC%88%E9%9B%86%E7%BE%A4%E7%89%88%EF%BC%89.md)
+[1. CentOS7安装Hbase集群](https://mp.weixin.qq.com/s?__biz=Mzg5Mzg3MzkwNA==&mid=2247484278&idx=1&sn=f27d19a6aeff811fe6e67d0f5acfea90&chksm=c02978e9f75ef1ffe1f5e76fd1ceaaa88239d1e93a1189ca5b9b682ab5926f4789244b2beaa0#rd)
 
 [2. hbase原理](https://github.com/WuZongYun/bigdata_study/blob/main/hbase/2_hbase%E5%8E%9F%E7%90%86.md)
 
@@ -107,6 +107,8 @@
 [4. hbase 实时同步elasticsearch 案例](https://github.com/WuZongYun/bigdata_study/blob/main/hbase/4_hbase%E5%AE%9E%E6%97%B6%E5%90%8C%E6%AD%A5elasticsearch.md)
 
 ## [**八、flume**](https://github.com/WuZongYun/bigdata_study/tree/main/shell)
+
+[1. CentOS7安装Flume集群](https://mp.weixin.qq.com/s?__biz=Mzg5Mzg3MzkwNA==&mid=2247484285&idx=1&sn=f33e5d1a597310c319d34187c6d5f7e5&chksm=c02978e2f75ef1f4913e832fd8630f4ef85ab0ee7a6f56f57a4b490ae6d9968e04a0cb2ec4cf#rd)
 
 ## [**九、kafka**](https://github.com/WuZongYun/bigdata_study/tree/main/kafka)
 
@@ -143,11 +145,6 @@
 [7. pyflink 集成 hive catalog模式读写数据 ](https://mp.weixin.qq.com/s?__biz=Mzg5Mzg3MzkwNA==&mid=2247484426&idx=1&sn=8ed88d9d4895d24cf80f7ee0617eed8a&chksm=c0297f95f75ef68359e5a827b1f40260cc05270e38e8db1ad3f70aec2d4e9641dcbb55cf6a44#rd)
 
 [8. FlinkSql 集成 hive catalog模式进行读写数据 ](https://mp.weixin.qq.com/s?__biz=Mzg5Mzg3MzkwNA==&mid=2247484412&idx=1&sn=a4b3bbe74fcbca09a8c3bb40a524e3a9&chksm=c0297863f75ef1754f92a7371e1c043de5a70e4c399cb33a4734c4f09b0e7dd96b1f81d9a27f#rd)
-
-
-
-
-
 
 
 ## [**十二、dolphinscheduler**](https://github.com/WuZongYun/bigdata_study/tree/main/shell)
