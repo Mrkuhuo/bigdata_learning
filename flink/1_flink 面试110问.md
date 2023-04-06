@@ -1,12 +1,10 @@
 ![](../images/img_335.png)
 
-### 01、Flink 基础篇
-
-#### 1、什么是Flink？描述一下
+# 1、什么是Flink？描述一下
 
 Flink是一个以 流 为核心的高可用、高性能的分布式计算引擎。具备 流批一体，高吞吐、低延迟，容错能力，大规模复杂计算等特点，在数据流上提供 数据分发、通信等功能。
 
-#### 2、能否详细解释一下其中的 数据流、流批一体、容错能力等概念？
+# 2、能否详细解释一下其中的 数据流、流批一体、容错能力等概念？
 
 **数据流**：
 
@@ -36,7 +34,7 @@ Flink提供 **集群级容错** 和 **应用级容错** 能力
 
 Flink 利用检查点特性，在框架层面 提供 Exactly-once 语义，即端到端的一致性，确保数据仅处理一次，不会重复也不会丢失，即使出现故障，也能保证数据只写一次。
 
-#### 3、Flink 和 Spark Streaming的区别？
+# 3、Flink 和 Spark Streaming的区别？
 
 Flink 和 Spark Sreaming 最大的区别在于：Flink 是标准的实时处理引擎，基于事件驱动，以流为核心，而 Spark Streaming 的RDD 实际是一组小批次的RDD集合，是微批（Micro-Batch）的模型，以批为核心。
 
@@ -82,11 +80,11 @@ Flink 支持了流处理程序在时间上的三个定义：事件时间 EventTi
 
 Flink 则使用两阶段提交协议来解决这个问题。
 
-#### 4、Flink的架构包含哪些？
+# 4、Flink的架构包含哪些？
 
 Flink 架构分为 技术架构 和 运行架构 两部分。
 
-#### 5、简单介绍一下技术架构
+# 5、简单介绍一下技术架构
 
 如下图为Flink技术架构：
 
@@ -94,7 +92,7 @@ Flink 架构分为 技术架构 和 运行架构 两部分。
 
 Flink 作为流批一体的分布式计算引擎，必须提供面向开发人员的API层，同时还需要跟外部数据存储进行交互，需要连接器，作业开发、测试完毕后，需要提交集群执行，需要部署层，同时还需要运维人员能够管理和监控，还提供图计算、机器学习、SQL等，需要应用框架层。
 
-#### 6、详细介绍一下Flink的运行架构
+# 6、详细介绍一下Flink的运行架构
 
 如下图为Flink运行架构：
 
@@ -113,7 +111,7 @@ JobManager 根据并行度将 Flink 客户端提交的Flink 应用分解为子�
 
 TaskManager 接收 JobManage 分发的子任务，根据自身的资源情况 管理子任务的启动、 停止、销毁、异常恢复等生命周期阶段。Flink程序中必须有一个TaskManager。
 
-#### 7、Flink的并行度介绍一下？
+# 7、Flink的并行度介绍一下？
 
 Flink程序在执行的时候，会被映射成一个Streaming Dataflow。一个Streaming Dataflow是由一组Stream和Transformation Operator组成的。在启动时从一个或多个Source Operator开始，结束于一个或多个Sink Operator。
 
@@ -127,7 +125,7 @@ operator子任务的数量是这一特定operator的并行度。相同程序中�
 
 上图Source的并行度为2。而一个Stream的并行度就等于它生成的Operator的并行度。数据在两个operator之间传递的时候有两种模式：
 
-#### 8、Flink的并行度的怎么设置的？
+# 8、Flink的并行度的怎么设置的？
 
 我们在实际生产环境中可以从四个不同层面设置并行度：
 
@@ -138,13 +136,13 @@ operator子任务的数量是这一特定operator的并行度。相同程序中�
 
 需要注意的优先级：算子层面>环境层面>客户端层面>系统层面。
 
-#### 9、Flink编程模型了解不？
+# 9、Flink编程模型了解不？
 
 Flink 应用程序主要由三部分组成，源 Source、转换 transformation、目的地 sink。这些流式 dataflows 形成了有向图，以一个或多个源（source）开始，并以一个或多个目的地（sink）结束。
 
 ![](../images/img_445.png)
 
-#### 10、Flink作业中的DataStream，Transformation介绍一下
+# 10、Flink作业中的DataStream，Transformation介绍一下
 
 Flink作业中，包含两个基本的块：数据流（DataStream）和 转换（Transformation）。
 
@@ -154,7 +152,7 @@ DataStream API 和 Transformation 的转换如下图：
 
 ![](../images/img_446.png)
 
-#### 11、Flink的分区策略了解吗？
+# 11、Flink的分区策略了解吗？
 
 目前 Flink 支持8种分区策略的实现，数据分区体系如下图：
 
@@ -212,7 +210,7 @@ KeyedStream在构造Transformation的时候默认使用KeyedGroup分区形式，
 
 用户自定义分区器。需要用户自己实现Partitioner接口，来定义自己的分区逻辑。
 
-#### 12、描述一下Flink wordcount执行包含的步骤有哪些？
+# 12、描述一下Flink wordcount执行包含的步骤有哪些？
 
 主要包含以下几步：
 
@@ -291,7 +289,7 @@ return "WordWithCount{" +
 }
 ```
 
-#### 13、Flink常用的算子有哪些？
+# 13、Flink常用的算子有哪些？
 
 分两部分：
 
@@ -303,17 +301,16 @@ return "WordWithCount{" +
 
 常用的算子包括：Map（单输入单输出）、FlatMap（单输入、多输出）、Filter（过滤）、KeyBy（分组）、Reduce（聚合）、Window（窗口）、Connect（连接）、Split（分割）等。
 
-### 02、Flink 核心篇
 
 ![](../images/img_449.jpg)
 
 核心篇主要涉及以上知识点，下面让我们详细了解一下。
 
-#### 14、Flink的四大基石包含哪些？
+# 14、Flink的四大基石包含哪些？
 
 Flink四大基石分别是：Checkpoint（检查点）、State（状态）、Time（时间）、Window（窗口）。
 
-#### 15、说说Flink窗口，以及划分机制
+# 15、说说Flink窗口，以及划分机制
 
 **窗口概念**：将无界流的数据，按时间区间，划分成多份数据，分别进行统计(聚合)
 
@@ -359,7 +356,7 @@ session窗口在一个固定的时间周期内不再收到元素，即非活动�
 
 ![](../images/img_456.png)
 
-#### 16、看你基本概念讲的还是很清楚的，那你介绍下Flink的窗口机制以及各组件之间是如何相互工作的
+# 16、看你基本概念讲的还是很清楚的，那你介绍下Flink的窗口机制以及各组件之间是如何相互工作的
 
 以下为窗口机制的流程图：
 
@@ -388,7 +385,7 @@ session窗口在一个固定的时间周期内不再收到元素，即非活动�
 
 5、Flink 对于一些聚合类的窗口计算（如sum,min）做了优化，因为聚合类的计算不需要将窗口中的所有数据都保存下来，只需要保存一个result值就可以了。每个进入窗口的元素都会执行一次聚合函数并修改result值。这样可以大大降低内存的消耗并提升性能。但是如果用户定义了 Evictor，则不会启用对聚合窗口的优化，因为 Evictor 需要遍历窗口中的所有元素，必须要将窗口中所有元素都存下来。
 
-#### 17、讲一下Flink的Time概念
+# 17、讲一下Flink的Time概念
 
 在Flink的流式处理中，会涉及到时间的不同概念，主要分为三种时间机制，如下图所示：
 
@@ -414,7 +411,7 @@ session窗口在一个固定的时间周期内不再收到元素，即非活动�
 
 如果要使用EventTime，那么需要引入EventTime的时间属性，引入方式如下所示：
 
-#### 18、那在API调用时，应该怎么使用？
+# 18、那在API调用时，应该怎么使用？
 
 使用方式如下：
 
@@ -431,7 +428,7 @@ env.setStrearnTimeCharacteristic(TimeCharacteristic.IngestionTime);
 env.setStrearnTimeCharacteristic(TimeCharacteri stic Eve~tTime);
 ```
 
-#### 19、在流数据处理中，有没有遇到过数据延迟等问题，通过什么处理呢？
+# 19、在流数据处理中，有没有遇到过数据延迟等问题，通过什么处理呢？
 
 有遇到过数据延迟问题。举个例子：
 
@@ -470,7 +467,7 @@ A 用户在11:02 对 App 进行操作，B用户在11:03 操作了 App，
         - 水印时间 = 事件时间 - 允许延迟时间 (例如：10:09:57 =  10:10:00 - 3s )
 
 
-#### 20、WaterMark原理讲解一下？
+# 20、WaterMark原理讲解一下？
 
 如下图所示：
 
@@ -486,7 +483,7 @@ A 用户在11:02 对 App 进行操作，B用户在11:03 操作了 App，
 
 ![](../images/img_462.png)
 
-#### 21、如果数据延迟非常严重呢？只使用WaterMark可以处理吗？那应该怎么解决？
+# 21、如果数据延迟非常严重呢？只使用WaterMark可以处理吗？那应该怎么解决？
 
 使用 WaterMark+ EventTimeWindow 机制可以在一定程度上解决数据乱序的问题，但是，WaterMark 水位线也不是万能的，在某些情况下，数据延迟会非常严重，即使通过Watermark + EventTimeWindow也无法等到数据全部进入窗口再进行处理，因为窗口触发计算后，对于延迟到达的本属于该窗口的数据，Flink默认会将这些延迟严重的数据进行丢弃
 
@@ -513,7 +510,7 @@ watermark=数据的事件时间-允许乱序时间值
 
 通过window等操作返回的DataStream调用该方法，传入标记延迟数据的对象来获取延迟的数据
 
-#### 22、刚才提到State，那你简单说一下什么是State。
+# 22、刚才提到State，那你简单说一下什么是State。
 
 ![](../images/img_463.png)
 
@@ -531,7 +528,7 @@ watermark=数据的事件时间-允许乱序时间值
 
 ![](../images/img_465.png)
 
-#### 23、Flink 状态包括哪些？
+# 23、Flink 状态包括哪些？
 
 （1） 按照由 Flink管理 还是 用户管理，状态可以分为 原始状态（Raw State）和 托管状态（ManagedState）
 
@@ -567,7 +564,7 @@ OperatorState特点：
 
 这里的fromElements会调用FromElementsFunction的类，其中就使用了类型为List state 的 operator state
 
-#### 24、Flink广播状态了解吗？
+# 24、Flink广播状态了解吗？
 
 Flink中，广播状态中叫作 BroadcastState。 在广播状态模式中使用。所谓广播状态模式， 就是来自一个流的数据需要被广播到所有下游任务，在算子本地存储，在处理另一个流的时候依赖于广播的数据.下面以一个示例来说明广播状态模式。
 
@@ -577,7 +574,7 @@ Flink中，广播状态中叫作 BroadcastState。 在广播状态模式中使�
 
 广播状态（State）必须是MapState类型，广播状态模式需要使用广播函数进行处理，广播函数提供了处理广播数据流和普通数据流的接口。
 
-#### 25、Flink 状态接口包括哪些？
+# 25、Flink 状态接口包括哪些？
 
 在Flink中使用状态，包含两种状态接口：
 
@@ -617,7 +614,7 @@ KeyedStateStore 接口原理：
 
 keyedStateStore数据使用RocksDBStateBackend或者HeapKeyedStateBackend来存储，KeyedStateStore中创建、获取状态都交给了具体的StateBackend来处理，KeyedStateStore本身更像是一个代理。
 
-#### 26、Flink 状态如何存储
+# 26、Flink 状态如何存储
 
 在Flink中， 状态存储被叫做 StateBackend , 它具备两种能力：
 
@@ -696,7 +693,7 @@ RocksDBStateBackend 相比基于内存的StateBackend，访问State的成本高�
 3）RocksDB的 JNI API 基于 byte 数组，单 key 和单 Value 的大小不能超过 8 字节
 4）对于使用具有合并操作状态的应用程序，如ListState ，随着时间可能会累积到超过 2*31次方字节大小，这将会导致在接下来的查询中失败。
 
-#### 27、Flink 状态如何持久化？
+# 27、Flink 状态如何持久化？
 
 首选，Flink的状态最终都要持久化到第三方存储中，确保集群故障或者作业挂掉后能够恢复。
 
@@ -727,7 +724,7 @@ Flink 增量式的检查点以 RocksDB为基础， RocksDB是一个基于LSM-Tre
 
 RocksDB会在后台合并 sstable 并删除其中重复的数据。然后在RocksDB删除原来的 sstable，替换成新合成的 sstable.。新的 sstable 包含了被删除的 sstable中的信息，通过合并历史的sstable会合并成一个新的 sstable，并删除这些历史sstable. 可以减少检查点的历史文件，避免大量小文件的产生。
 
-#### 28、Flink 状态过期后如何清理？
+# 28、Flink 状态过期后如何清理？
 
 **1、DataStream中状态过期**
 
@@ -749,11 +746,11 @@ qConfig.withIdleStateRetentionTime(Time.hours(12),Time.hours(24));
 
 ![](../images/img_474.png)
 
-#### 29、Flink 通过什么实现可靠的容错机制。
+# 29、Flink 通过什么实现可靠的容错机制。
 
 Flink 使用 轻量级分布式快照，设计检查点（checkpoint）实现可靠容错。
 
-#### 30、什么是Checkpoin检查点？
+# 30、什么是Checkpoin检查点？
 
 Checkpoint被叫做检查点，是Flink实现容错机制最核心的功能，是Flink可靠性的基石，它能够根据配置周期性地基于Stream中各个Operator的状态来生成Snapshot快照，从而将这些状态数据定期持久化存储下来，当Flink程序一旦意外崩溃时，重新运行程序时可以有选择地从这些Snapshot进行恢复，从而修正因为故障带来的程序数据状态中断。
 
@@ -775,15 +772,15 @@ State可以被记录，在失败的情况下数据还可以恢复。
 
 比如KafkaConsumer算子中维护的Offset状态,当任务重新恢复的时候可以从Checkpoint中获取。
 
-#### 31、什么是Savepoin保存点？
+# 31、什么是Savepoin保存点？
 
 保存点在 Flink 中叫作 Savepoint. 是基于Flink 检查点机制的应用完整快照备份机制. 用来保存状态 可以在另一个集群或者另一个时间点.从保存的状态中将作业恢复回来。适用 于应用升级、集群迁移、 Flink 集群版本更新、A/B测试以及假定场景、暂停和重启、归档等场景。保存点可以视为一个(算子 ID -> State) 的Map，对于每一个有状态的算子，Key是算子ID，Value是算子State。
 
-#### 32、什么是CheckpointCoordinator检查点协调器？
+# 32、什么是CheckpointCoordinator检查点协调器？
 
 Flink中检查点协调器叫作 CheckpointCoordinator，负责协调 Flink 算子的 State 的分布式快照。当触发快照的时候，CheckpointCoordinator向 Source 算子中注入Barrier消息 ，然后等待所有的Task通知检查点确认完成，同时持有所有 Task 在确认完成消息中上报的State句柄。
 
-#### 33、Checkpoint中保存的是什么信息？
+# 33、Checkpoint中保存的是什么信息？
 
 检查点里面到底保存着什么信息呢？我们以flink消费kafka数据wordcount为例：
 
@@ -808,7 +805,7 @@ Flink的pv task记录了当前计算的各app的pv值，为了方便讲解，我
 
 该案例中，CheckPoint保存的其实就是第n次CheckPoint消费的offset信息和各app的pv值信息，记录一下发生CheckPoint当前的状态信息，并将该状态信息保存到相应的状态后端。图下代码：（注：状态后端是保存状态的地方，决定状态如何保存，如何保障状态高可用，我们只需要知道，我们能从状态后端拿到offset信息和pv信息即可。状态后端必须是高可用的，否则我们的状态后端经常出现故障，会导致无法通过checkpoint来恢复我们的应用程序）。
 
-#### 34、当作业失败后，检查点如何恢复作业？
+# 34、当作业失败后，检查点如何恢复作业？
 
 Flink提供了 应用自动恢复机制 和 手动作业恢复机制。
 
@@ -833,7 +830,7 @@ Flink设置有作业失败重启策略，包含三种：
 `/bin/flink -s /flink/checkpoints/03112312a12398740a87393/chk-50/_metadata
 `
 
-#### 35、当作业失败后，从保存点如何恢复作业？
+# 35、当作业失败后，从保存点如何恢复作业？
 
 从保存点恢复作业并不简单，尤其是在作业变更(如修改逻辑、修复 bug) 的情况下， 需要考虑如下几点:
 
@@ -855,7 +852,7 @@ Flink设置有作业失败重启策略，包含三种：
 
 如果手动设置了 UID 则可以恢复，保存点中不记录无状态的算子 如果是自动分配的 UID ，那么有状态算子的可能会变( Flink 一个单调递增的计数器生成 UID，DAG 改版，计数器极有可能会变) 很有可能恢复失败。
 
-#### 36、Flink如何实现轻量级异步分布式快照？
+# 36、Flink如何实现轻量级异步分布式快照？
 
 要实现分布式快照，最关键的是能够将数据流切分。Flink 中使用 Barrier (屏障)来切分数据 流。 Barrierr 会周期性地注入数据流中，作为数据流的一部分，从上游到下游被算子处理。Barrier 会严格保证顺序，不会超过其前边的数据。Barrier 将记录分割成记录集，两个 Barrier 之间的数据流中的数据隶属于同一个检查点。每一个 Barrier 都携带一个其所属快照的 ID 编号。Barrier 随着数据向下流动，不会打断数据流，因此非常轻量。 在一个数据流中，可能会存在多个隶属于不同快照的 Barrier ，并发异步地执行分布式快照，如下图所示：
 
@@ -872,4 +869,21 @@ Barrier 接着向下游传递。当一个非数据源算子从所有的输入流
 
 对应到pv案例中就是，Source Task接收到JobManager的编号为chk-100（从最近一次恢复）的CheckPoint触发请求后，发现自己恰好接收到kafka offset（0，1000）处的数据，所以会往offset（0，1000）数据之后offset（0，1001）数据之前安插一个barrier，然后自己开始做快照，也就是将offset（0，1000）保存到状态后端chk-100中。然后barrier接着往下游发送，当统计pv的task接收到barrier后，也会暂停处理数据，将自己内存中保存的pv信息（app1，50000）（app2，10000）保存到状态后端chk-100中。OK，flink大概就是通过这个原理来保存快照的;
 统计pv的task接收到barrier，就意味着barrier之前的数据都处理了，所以说，不会出现丢数据的情况。
+
+# 37、什么是Barrier对齐？
+
+![](../images/img_477.png)
+
+![](../images/img_478.png)
+
+一旦Operator从输入流接收到CheckPoint barrier n，它就不能处理来自该流的任何数据记录，直到它从其他所有输入接收到barrier n为止。否则，它会混合属于快照n的记录和属于快照n + 1的记录；
+如上图所示：
+图1，算子收到数字流的Barrier,字母流对应的barrier尚未到达
+图2，算子收到数字流的Barrier,会继续从数字流中接收数据，但这些流只能被搁置，记录不能被处理，而是放入缓存中，等待字母流 Barrier到达。在字母流到达前， 1，2，3数据已经被缓存。
+图3，字母流到达，算子开始对齐State进行异步快照，并将Barrier向下游广播，并不等待快照执行完毕。
+图4，算子做异步快照，首先处理缓存中积压数据，然后再从输入通道中获取数据。
+
+# 38、什么是Barrier不对齐？
+
+
 
