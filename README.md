@@ -16,17 +16,17 @@
 ![](./images/微信公众号.jpg)
 
 
-## [**一、python**](https://github.com/WuZongYun/bigdata_study/tree/main/python)
+## [**一、python**]()
 
-[ 1. python 基础](https://github.com/WuZongYun/bigdata_study/blob/main/python/1_python%E5%9F%BA%E7%A1%80.md)
+[ 1. python 基础](http://t.csdn.cn/xgsYb)
 
-[ 2. python Numpy](https://github.com/WuZongYun/bigdata_study/blob/main/python/2_pythonNumpy.md)
+[ 2. python Numpy](http://t.csdn.cn/4mttz)
 
-[ 3. python Pandas](https://github.com/WuZongYun/bigdata_study/blob/main/python/3_pythonPandas.md)
+[ 3. python Pandas](http://t.csdn.cn/DQRGS)
 
-## [**二、shell**](https://github.com/WuZongYun/bigdata_study/tree/main/shell)
+## [**二、shell**]()
 
-[ 1. shell基础](https://github.com/WuZongYun/bigdata_study/blob/main/shell/1_shell%E5%9F%BA%E7%A1%80.md)
+[ 1. shell基础](http://t.csdn.cn/A0GkA)
 
 ## [三、大数据基础环境准备](https://github.com/WuZongYun/bigdata_study/tree/main/%E5%A4%A7%E6%95%B0%E6%8D%AE%E5%9F%BA%E7%A1%80%E7%8E%AF%E5%A2%83%E6%90%AD%E5%BB%BA)
 
