@@ -88,7 +88,7 @@
 
 [【 5. hive 整合 hbase 】](https://github.com/WuZongYun/bigdata_study/blob/main/hive/5_Hive%E6%95%B4%E5%90%88Hbase.md)
 
-[【 6. ★ hive优化 ★ 】](https://t.zsxq.com/0ciV8xZJt)
+[【 6. hive优化 】](https://t.zsxq.com/0ciV8xZJt)
 
 ## [**六、zookeeper**](https://github.com/WuZongYun/bigdata_study/tree/main/zookeeper)
 
@@ -132,7 +132,7 @@
 
 ## [**十一、flink**](https://github.com/WuZongYun/bigdata_study/tree/main/shell)
 
-[【 1. flink ★ 面试 100 问 ★ 】](https://t.zsxq.com/0c70qqPLO)
+[【 1. ★ flink  面试 100 问 ★ 】](https://t.zsxq.com/0c70qqPLO)
 
 [【 2. flink 消费kafka的四种起始位置 】](https://mp.weixin.qq.com/s?__biz=Mzg5Mzg3MzkwNA==&mid=2247484619&idx=1&sn=332aaf9cac741a58c190f5a280af3628&chksm=c0297f54f75ef642880d80a9e0e18110045c61faefe431d3a660d915e7f5340c0e95cfc346b8#rd)
 
@@ -147,6 +147,8 @@
 [【 7. pyflink 集成 hive catalog模式读写数据 】](https://mp.weixin.qq.com/s?__biz=Mzg5Mzg3MzkwNA==&mid=2247484426&idx=1&sn=8ed88d9d4895d24cf80f7ee0617eed8a&chksm=c0297f95f75ef68359e5a827b1f40260cc05270e38e8db1ad3f70aec2d4e9641dcbb55cf6a44#rd)
 
 [【 8. FlinkSql 集成 hive catalog模式进行读写数据 】](https://mp.weixin.qq.com/s?__biz=Mzg5Mzg3MzkwNA==&mid=2247484412&idx=1&sn=a4b3bbe74fcbca09a8c3bb40a524e3a9&chksm=c0297863f75ef1754f92a7371e1c043de5a70e4c399cb33a4734c4f09b0e7dd96b1f81d9a27f#rd)
+
+[【 9. ★ Flink checkpoint 执行流程及优化方案 ★ 】](https://t.zsxq.com/0cktPlxgU)
 
 ## [**十二、dolphinscheduler**](https://github.com/WuZongYun/bigdata_study/tree/main/shell)
 
