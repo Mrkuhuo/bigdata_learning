@@ -150,6 +150,8 @@
 
 [【 9. ★ Flink checkpoint 执行流程及优化方案 ★ 】](https://t.zsxq.com/0cktPlxgU)
 
+[【 10. ★ Flink 内存优化方案 ★ 】](https://t.zsxq.com/0c2CV3ww7)
+
 ## [**十二、dolphinscheduler**](https://github.com/WuZongYun/bigdata_study/tree/main/shell)
 
 ## [**十三、elasticsearch**](https://github.com/WuZongYun/bigdata_study/tree/main/shell)
