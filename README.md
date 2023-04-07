@@ -30,9 +30,9 @@
 
 ## [**二、shell**]()
 
-[ 1. shell基础](http://t.csdn.cn/A0GkA)
+[【1. shell基础】](http://t.csdn.cn/A0GkA)
 
-[ 2. 安装包下载](https://mp.weixin.qq.com/s?__biz=Mzg5Mzg3MzkwNA==&mid=2247484608&idx=1&sn=5d3b278d81cd11f518f2122e012f7436&chksm=c0297f5ff75ef649f093bc4d1a5a7a3e7e4e138ff125c917d55849200d4121dbefcb6521e9c4#rd)
+[【2. 安装包下载】](https://mp.weixin.qq.com/s?__biz=Mzg5Mzg3MzkwNA==&mid=2247484608&idx=1&sn=5d3b278d81cd11f518f2122e012f7436&chksm=c0297f5ff75ef649f093bc4d1a5a7a3e7e4e138ff125c917d55849200d4121dbefcb6521e9c4#rd)
 
 [ 3. 一键搭建hive集群](https://mp.weixin.qq.com/s?__biz=Mzg5Mzg3MzkwNA==&mid=2247484544&idx=1&sn=cd889d3d946ad6ec21be60e37aee5d85&chksm=c0297f1ff75ef6090c82387e754c15febf86d0840bf73b9ba405b50db9ebedb4f2b8cfddf46d#rd)
 
