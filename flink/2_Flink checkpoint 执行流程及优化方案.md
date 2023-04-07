@@ -138,3 +138,43 @@ Flink Checkpoint 分为同步快照和异步上传两部分，同步快照部分
 具体实现思路如下图所示：
 
 ![](../images/img_575.png)
+
+* 检查点 CP 1 完成后，产生了两个 sstable 文件，写到持久化存储并将它们的引用计数记为1；
+* 检查点 CP 2 完成后，新增了两个 sstable 文件，将它们引用计数记为1。保留2个检查点，上一步 CP 1 产生的两个文件也要算在 CP 2 内，故 sstable-(1) /-(2) 的引用计数会加1，变成2；
+* 检查点 CP 3 完成后，sstable-(1)/-(2)/-(3) 合并成了一个文件。sstable-(4) 引用计数变为2，产生了新的sstable-(5)文件。CP 1已经过期，sstable-(1)/-(2) 两个文件不会再被引用，引用计数减1；
+* 检查点CP 4完成后，sstable-(4)/-(5)/-(6)三个文件合并成了sstable-(4,5,6)，并对sstable-(1,2,3)、sstable-(4,5,6)引用加1。由于 CP 2 也过期了，所以sstable-([1~4]) 四个文件的引用计数同时减1， sstable-(1)/-(2)/-(3) 的引用计数变为 0，Flink 就从存储系统中删除掉这三个文件；
+
+RocksDBStatebackend 的增量设计方案在状态数据变化不大的情况下，能够极大减少 checkpoint 状态上传时长。但也有一定局限：
+
+![](../images/img_576.png)
+
+FLIP-158 提出了一种通用的增量快照方案，其核心思想是基于 state changelog，changelog 能够细粒度地记录状态数据的变化，如下图所示：
+
+![](../images/img_577.png)
+
+具体描述如下：
+
+* 有状态算子除了将状态变化写入状态后端外，再写一份到预写日志中；
+* 预写日志上传到持久化存储后，operator 确认 checkpoint 完成；
+* 独立于 checkpoint 之外，state table 周期性上传，这些上传到持久存储中的数据被称为物化状态；
+* state stable 上传后，之前部分预写日志就没用了，可以被裁剪；
+
+FLIP-158 中将管理 state changelog 的组件称为 DSTL（Durable Short-term Log），之所以采用这个名字是为了和 Kafka、Pulsar 中的 Log 进行区分：
+
+![](../images/img_578.png)
+
+FLIP-158 的设计方案具有如下优势：
+
+1. 可以显著减少 checkpoint 耗时，从而能够支持更为频繁的 checkpoint；
+2. checkpoint 间隔小，任务恢复时，需要重新处理的数据量变少；
+3. 因为事务 sink 在 checkpoint 时提交，所以更为频繁的 checkpoint 能够降低事务 Sink 的时延；
+4. checkpoint 的时间间隔更容易设置。checkpoint 耗时主要取决于需要持久化数据的大小，以 RocksDB 增量 checkpoint 为例:
+
+如果 checkpoint 间隔内只产生了一个 Level-0 sstable，那么 checkpoint 将很快完成。而如果 checkpoint 间隔内发生了状态合并，产生了新的位于 Level-3/-4/-5 的 sstable，那么 checkpoint 耗时将较长。
+
+正是因为 checkpoint 耗时不稳定，所以设置一个合适的 checkpoint 间隔 较为困难。而 FLIP-158 的方案使得每次 checkpoint 的数据量都较为稳定，所以可以更容易设置 checkpoint 间隔；
+
+FLIP-158 包含五十多个开发子任务，大部分已经开发完成，具体任务如下图所示，感兴趣可以查看 FLIP-158 的 umbrella issue。
+
+![](../images/img_579.png)
+

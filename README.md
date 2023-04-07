@@ -88,8 +88,6 @@
 
 [【 5. hive 整合 hbase 】](https://github.com/WuZongYun/bigdata_study/blob/main/hive/5_Hive%E6%95%B4%E5%90%88Hbase.md)
 
-[【 6. hive优化 】](https://t.zsxq.com/0ciV8xZJt)
-
 ## [**六、zookeeper**](https://github.com/WuZongYun/bigdata_study/tree/main/zookeeper)
 
 [【 1. CentOS7安装zookeeper集群 】](https://mp.weixin.qq.com/s?__biz=Mzg5Mzg3MzkwNA==&mid=2247484264&idx=1&sn=1aa7a75cf682b2a184641c65e061fdf3&chksm=c02978f7f75ef1e159a6ceb7656ace7d75bad1c945955fc8bb4a93c5cae4c835bc2361f4c197#rd)
@@ -116,7 +114,7 @@
 
 [【 1. kafka 安装（集群版）】](https://github.com/WuZongYun/bigdata_learning/blob/main/kafka/1_kafka%20%E5%AE%89%E8%A3%85%EF%BC%88%E9%9B%86%E7%BE%A4%E7%89%88%EF%BC%89.md)
 
-[【 2. kafka 难点解析 】](https://github.com/WuZongYun/bigdata_learning/blob/main/kafka/2_kafka%E9%9D%A2%E8%AF%95_Kafka%20%E5%9F%BA%E6%9C%AC%E6%A6%82%E5%BF%B5%E5%92%8C%E6%9E%B6%E6%9E%84.md)
+[【 2. ★ kafka 面试之高可用 ★ 】](https://t.zsxq.com/0cfZmT8mi)
 
 [【 3. kafka 面试30问 】](https://github.com/WuZongYun/bigdata_learning/blob/main/kafka/3_kafka%E7%9B%B8%E5%85%B3%E7%9F%A5%E8%AF%86%E7%82%B9.md)
 
