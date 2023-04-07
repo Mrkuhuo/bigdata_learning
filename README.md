@@ -64,23 +64,23 @@
 
 [5. centos7安装mysql](https://mp.weixin.qq.com/s?__biz=Mzg5Mzg3MzkwNA==&mid=2247484226&idx=1&sn=cb0738e5f53380c238fd67758145cb46&chksm=c02978ddf75ef1cb9e70c6df9b91ab6a886ca1982ecf21522c925193a094d5dc4dca34cf07ab#rd)
 
-## [**四、hadoop**](https://github.com/WuZongYun/bigdata_study/tree/main/hadoop)
+## [**四、hadoop**]()
 
 [1. CentOS7安装hadoop集群](https://mp.weixin.qq.com/s?__biz=Mzg5Mzg3MzkwNA==&mid=2247484650&idx=1&sn=21016d7e2536098ab0e180dd92145665&chksm=c0297f75f75ef66359b8441d6cc2a0241828ffad4de197ff1f0911471fc79a5fc218d49c1eb6#rd)
 
-[2. hadoop基于 HDFS HA 集群高可用安装](https://github.com/WuZongYun/bigdata_study/blob/main/hadoop/3_hadoop%E9%AB%98%E5%8F%AF%E7%94%A8%E5%AE%89%E8%A3%85%EF%BC%88HDFS%20HA%EF%BC%89.md)
+[2. hadoop基于 HDFS HA 集群高可用安装](https://mp.weixin.qq.com/s?__biz=Mzg5Mzg3MzkwNA==&mid=2247484650&idx=1&sn=21016d7e2536098ab0e180dd92145665&chksm=c0297f75f75ef66359b8441d6cc2a0241828ffad4de197ff1f0911471fc79a5fc218d49c1eb6#rd)
 
-[3. hadoop基于 YARN HA 集群高可用安装](https://github.com/WuZongYun/bigdata_study/blob/main/hadoop/4_hadoop%E9%AB%98%E5%8F%AF%E7%94%A8%E5%AE%89%E8%A3%85%EF%BC%88YARN%20HA%EF%BC%89.md)
+[3. hadoop基于 YARN HA 集群高可用安装](https://mp.weixin.qq.com/s?__biz=Mzg5Mzg3MzkwNA==&mid=2247484774&idx=1&sn=a5789f9b1ed4976b85ada4b75191543c&chksm=c0297ef9f75ef7ef2d5c5b4d31ef9872db332cc706d96c9e93537a5b5a41c6cf9c95b191796f#rd)
 
-[4. hadoop shell 命令](https://github.com/WuZongYun/bigdata_study/blob/main/hadoop/5_hadoop%20shell%20%E5%91%BD%E4%BB%A4.md)
+[4. hadoop shell 命令](https://mp.weixin.qq.com/s?__biz=Mzg5Mzg3MzkwNA==&mid=2247484774&idx=2&sn=f8e6f39af37ef22c4b695a782d51cca1&chksm=c0297ef9f75ef7ef68cd7dac9d3838426d15d4ad9a7af195063967989d5fe36f56c33d18e3d1#rd)
 
-[5. hadoop mapreduce实战](https://github.com/WuZongYun/bigdata_study/blob/main/hadoop/6_hadoop%20MapRerduce%E5%AE%9E%E6%88%98.md)
+[5. hadoop mapreduce实战](https://mp.weixin.qq.com/s?__biz=Mzg5Mzg3MzkwNA==&mid=2247484774&idx=3&sn=0b12044f71a0ca7382932006c431cde1&chksm=c0297ef9f75ef7effc2c04a43edae78a72bb8c600c2c65c9abb46697324282538790be35fbb0#rd)
 
-## [**五、hive**](https://github.com/WuZongYun/bigdata_study/tree/main/hive)
+## [**五、hive**]()
 
 [1. CentOS7安装hive集群](https://mp.weixin.qq.com/s?__biz=Mzg5Mzg3MzkwNA==&mid=2247484250&idx=1&sn=e2aac10ac2886b07ecf8bf6f8ab009e2&chksm=c02978c5f75ef1d3a7c1258b3c2b1cee13246477787f4c33cf65145d42f5d0d9d567829cb9cb#rd)
 
-[2. hive 基本概念](https://github.com/WuZongYun/bigdata_study/blob/main/hive/2_hive%E5%9F%BA%E6%9C%AC%E6%A6%82%E5%BF%B5.md)
+[2. hive 基本概念](https://mp.weixin.qq.com/s?__biz=Mzg5Mzg3MzkwNA==&mid=2247484774&idx=4&sn=198f6c9b90813a38afd5e79c36a19db0&chksm=c0297ef9f75ef7ef031517ff6f995e1f76b764db656de195eac11083c5a685fc5255a83a8188#rd)
 
 [3. hive 查询](https://github.com/WuZongYun/bigdata_study/blob/main/hive/3_hive%E5%AE%9E%E6%88%98.md)
 
@@ -147,7 +147,6 @@
 [7. pyflink 集成 hive catalog模式读写数据 ](https://mp.weixin.qq.com/s?__biz=Mzg5Mzg3MzkwNA==&mid=2247484426&idx=1&sn=8ed88d9d4895d24cf80f7ee0617eed8a&chksm=c0297f95f75ef68359e5a827b1f40260cc05270e38e8db1ad3f70aec2d4e9641dcbb55cf6a44#rd)
 
 [8. FlinkSql 集成 hive catalog模式进行读写数据 ](https://mp.weixin.qq.com/s?__biz=Mzg5Mzg3MzkwNA==&mid=2247484412&idx=1&sn=a4b3bbe74fcbca09a8c3bb40a524e3a9&chksm=c0297863f75ef1754f92a7371e1c043de5a70e4c399cb33a4734c4f09b0e7dd96b1f81d9a27f#rd)
-
 
 ## [**十二、dolphinscheduler**](https://github.com/WuZongYun/bigdata_study/tree/main/shell)
 
