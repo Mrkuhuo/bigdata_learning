@@ -95,6 +95,8 @@ FLIP-183 也能够有效减少 checkpoint 时， barrier 的对齐时间，从�
 
 **Flink 流控机制**
 
+![](../images/img_573.png)
+
 Flink 采用 Credit-based 流控机制，确保发送端已经发送的任何数据，接收端都具有足够的 Buffer 来接收。
 
 流量控制机制基于网络缓冲区的可用性，每个上游输入（A1、A2）在下游（B1、B2）都有自己的一组独占缓冲区，并共享一个本地缓冲池。
@@ -107,3 +109,32 @@ Flink 采用 Credit-based 流控机制，确保发送端已经发送的任何数
 
 数据接收端会利用这一信息去申请合适数量的 Floating Buffer 用于接收发送端的数据，这可以加快发送端堆积数据的处理。接收端会首先申请和 Backlog 数量相等的 Buffer，但可能无法申请到全部，甚至一个都申请不到，这时接收端会利用已经申请到的 Buffer 进行数据接收，并监听是否有新的 Buffer 可用。
 
+![](../images/img_574.png)
+
+FLIP-183 中的 Buffer 不是静态配置的，而是基于吞吐量动态调整的。关键步骤为：
+
+subtask 计算吞吐量，然后根据配置计算 buffer 大小
+
+在 subtask 的整个生命周期中，subtask 会观测吞吐量的变化，然后调整 buffer 大小
+
+下游 subtask 发送新的 buffer 大小以及可用 buffer 到上游对应的 subpartition
+
+上游 subpartition 根据接收到的信息，调整新分配的 buffer 大小，当前 filled buffer 不变
+
+上游发送 filled buffer 及队列中 filled buffer 的数量
+
+当前 FLIP-183 的设计方案在 Flink 1.14 中已实现，具体子任务如下图所示，感兴趣可以查看 FLIP-183 的 umbrella  issue。
+
+#### 5 通用增量快照
+
+Flink Checkpoint 分为同步快照和异步上传两部分，同步快照部分操作较快，异步上传时间无法预测。
+
+如果状态数据较大，那么整个 checkpoint 的耗时可能会非常长。虽然像 RocksDB 之类的状态后端提供了增量 checkpoint 能力，但由于数据合并，增量部分的状态数据大小依然是不可控。
+
+所以即使采用增量 checkpoint，耗时仍可能非常久，并且也不是所有的状态后端都支持增量 checkpoint。
+
+针对全量 checkpoint 与 增量 checkpoint 不稳定问题，FLIP-158 提出了一种基于日志的、通用的增量 checkpoing 方案，能够使得 Flink checkpoint 过程快速稳定。
+
+具体实现思路如下图所示：
+
+![](../images/img_575.png)
