@@ -88,25 +88,25 @@
 
 [【 5. hive 整合 hbase 】](https://github.com/WuZongYun/bigdata_study/blob/main/hive/5_Hive%E6%95%B4%E5%90%88Hbase.md)
 
-## [**六、zookeeper**](https://github.com/WuZongYun/bigdata_study/tree/main/zookeeper)
+## [**六、zookeeper**]()
 
 [【 1. CentOS7安装zookeeper集群 】](https://mp.weixin.qq.com/s?__biz=Mzg5Mzg3MzkwNA==&mid=2247484264&idx=1&sn=1aa7a75cf682b2a184641c65e061fdf3&chksm=c02978f7f75ef1e159a6ceb7656ace7d75bad1c945955fc8bb4a93c5cae4c835bc2361f4c197#rd)
 
-[【 2. zookeeper基础 】](https://github.com/WuZongYun/bigdata_study/blob/main/zookeeper/2_zookeeper%20%E5%9F%BA%E7%A1%80.md)
+[【 2. zookeeper基础 】](https://mp.weixin.qq.com/s?__biz=Mzg5Mzg3MzkwNA==&mid=2247484904&idx=1&sn=2c2036eab77a315f2cbe16a5cb0f28dc&chksm=c0297e77f75ef761bd3cdf0086f3b79ccc8755ec1bced166710720d8911c36198938f9de66aa#rd)
 
-[【 3. zookeeper实战 】](https://github.com/WuZongYun/bigdata_study/blob/main/zookeeper/3_zookeeper%E5%AE%9E%E6%88%98.md)
+[【 3. zookeeper实战 】](https://mp.weixin.qq.com/s?__biz=Mzg5Mzg3MzkwNA==&mid=2247484904&idx=2&sn=af224b42a9953eac07dc6f7ae1e505d4&chksm=c0297e77f75ef76116e171b70c6feec7ac4bd907c41307cfe9c6425da6657bb372aaaa981ae4#rd)
 
-## [**七、hbase**](https://github.com/WuZongYun/bigdata_study/tree/main/hbase)
+## [**七、hbase**]()
 
 [【 1. CentOS7安装Hbase集群 】](https://mp.weixin.qq.com/s?__biz=Mzg5Mzg3MzkwNA==&mid=2247484278&idx=1&sn=f27d19a6aeff811fe6e67d0f5acfea90&chksm=c02978e9f75ef1ffe1f5e76fd1ceaaa88239d1e93a1189ca5b9b682ab5926f4789244b2beaa0#rd)
 
-[【 2. hbase原理 】](https://github.com/WuZongYun/bigdata_study/blob/main/hbase/2_hbase%E5%8E%9F%E7%90%86.md)
+[【 2. hbase原理 】](https://mp.weixin.qq.com/s?__biz=Mzg5Mzg3MzkwNA==&mid=2247484905&idx=1&sn=65582c0f5de30a2fa57cd7fd36f2c2b1&chksm=c0297e76f75ef7601c5385dbad7e369fffd3eaa3e65bd527fec9a1b401a82d78b0facfaf0f00#rd)
 
-[【 3. hbase shell命令 】](https://github.com/WuZongYun/bigdata_study/blob/main/hbase/3_hbase%20shell%20%E5%91%BD%E4%BB%A4.md)
+[【 3. hbase shell命令 】](https://mp.weixin.qq.com/s?__biz=Mzg5Mzg3MzkwNA==&mid=2247484905&idx=2&sn=d22845559f786ddd5af063a02708fe8d&chksm=c0297e76f75ef7605a8431ce2fb8196e8639acca71a50a17b2b21ded59560b7c3756474cad8f#rd)
 
-[【 4. hbase 实时同步elasticsearch 案例 】](https://github.com/WuZongYun/bigdata_study/blob/main/hbase/4_hbase%E5%AE%9E%E6%97%B6%E5%90%8C%E6%AD%A5elasticsearch.md)
+[【 4. hbase 实时同步elasticsearch 案例 】](https://mp.weixin.qq.com/s?__biz=Mzg5Mzg3MzkwNA==&mid=2247484905&idx=3&sn=4c7dc3f44783fb0dfbef38221ac5ec6c&chksm=c0297e76f75ef760ee4dd2d2c16c9dbffb77cead508ee38458bb8a6c56aac9ce3372b1b149c0#rd)
 
-## [**八、flume**](https://github.com/WuZongYun/bigdata_study/tree/main/shell)
+## [**八、flume**]()
 
 [【 1. CentOS7安装Flume集群 】](https://mp.weixin.qq.com/s?__biz=Mzg5Mzg3MzkwNA==&mid=2247484285&idx=1&sn=f33e5d1a597310c319d34187c6d5f7e5&chksm=c02978e2f75ef1f4913e832fd8630f4ef85ab0ee7a6f56f57a4b490ae6d9968e04a0cb2ec4cf#rd)
 
