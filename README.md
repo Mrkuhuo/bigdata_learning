@@ -18,7 +18,7 @@
 
 ## [**一、python**]()
 
-[【 1. python 基础 】](http://t.csdn.cn/xgsYb)
+[【 1. python 基础 】](https://mp.weixin.qq.com/s?__biz=Mzg5Mzg3MzkwNA==&mid=2247484818&idx=1&sn=22891961bc946358592193d2376bd1c8&chksm=c0297e0df75ef71bd0bb3eb7468997311c839cf08b8cda4c383b9d52268463495a4831001af5#rd)
 
 [【 2. python Numpy 】](http://t.csdn.cn/4mttz)
 
@@ -82,11 +82,11 @@
 
 [【 2. hive 基本概念 】](https://mp.weixin.qq.com/s?__biz=Mzg5Mzg3MzkwNA==&mid=2247484774&idx=4&sn=198f6c9b90813a38afd5e79c36a19db0&chksm=c0297ef9f75ef7ef031517ff6f995e1f76b764db656de195eac11083c5a685fc5255a83a8188#rd)
 
-[【 3. hive 查询 】](https://github.com/WuZongYun/bigdata_study/blob/main/hive/3_hive%E5%AE%9E%E6%88%98.md)
+[【 3. hive 查询 】](https://mp.weixin.qq.com/s?__biz=Mzg5Mzg3MzkwNA==&mid=2247484906&idx=1&sn=28405d4c910cf0275f909d92ca91c5a6&chksm=c0297e75f75ef7633a0cc88075cbfc8e61a292aae4260d30330a50a394610ba639a3017ff347#rd)
 
-[【 4. hive 窗口函数 】](https://github.com/WuZongYun/bigdata_study/blob/main/hive/4_hive%20%E7%AA%97%E5%8F%A3%E5%87%BD%E6%95%B0.md)
+[【 4. hive 窗口函数 】](https://mp.weixin.qq.com/s?__biz=Mzg5Mzg3MzkwNA==&mid=2247484906&idx=2&sn=6e80c0c8d073b4970ee57bdc9b148187&chksm=c0297e75f75ef7636c118b79870493db321f61d02f4a535beb8e87b7d0893807e8191932cd80#rd)
 
-[【 5. hive 整合 hbase 】](https://github.com/WuZongYun/bigdata_study/blob/main/hive/5_Hive%E6%95%B4%E5%90%88Hbase.md)
+[【 5. hive 整合 hbase 】](https://mp.weixin.qq.com/s?__biz=Mzg5Mzg3MzkwNA==&mid=2247484906&idx=3&sn=b7d299e2f5b9679500bdfb9dda22247b&chksm=c0297e75f75ef763e15c003712094b6cb1fb76c7ac4f22f99a42fbcabe573baf6500d5302977#rd)
 
 ## [**六、zookeeper**]()
 
