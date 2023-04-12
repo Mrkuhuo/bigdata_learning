@@ -116,15 +116,15 @@
 
 [【 2. ★ kafka 面试之高可用 ★ 】](https://t.zsxq.com/0cfZmT8mi)
 
-[【 3. kafka 面试30问 】](https://github.com/WuZongYun/bigdata_learning/blob/main/kafka/3_kafka%E7%9B%B8%E5%85%B3%E7%9F%A5%E8%AF%86%E7%82%B9.md)
+[【 3. kafka 面试30问 】](https://mp.weixin.qq.com/s?__biz=Mzg5Mzg3MzkwNA==&mid=2247484907&idx=1&sn=7de35f5877463de09308efbcf48df5a5&chksm=c0297e74f75ef762df74bd26363a67391fa5eb981ab7c29fc5a670aad4e0c2c9fb9e4b280a1c#rd)
 
-[【 4. kafka 分区数真的越多越好吗 】](https://github.com/WuZongYun/bigdata_learning/blob/main/kafka/4_Kafka%20%E5%88%86%E5%8C%BA.md)
+[【 4. kafka 分区数真的越多越好吗 】](https://mp.weixin.qq.com/s?__biz=Mzg5Mzg3MzkwNA==&mid=2247484907&idx=2&sn=71fc376e7241392186d9cc76868b84c5&chksm=c0297e74f75ef7621628c14f376de7e61b2af428590cf032dc9a300ff2431fc9b7cbe9990912#rd)
 
-[【 5. kafka 事务实现原理 】](https://github.com/WuZongYun/bigdata_learning/blob/main/kafka/5_Kafka%20%E4%BA%8B%E5%8A%A1%E7%9A%84%E5%AE%9E%E7%8E%B0%E5%8E%9F%E7%90%86.md)
+[【 5. kafka 事务实现原理 】](https://mp.weixin.qq.com/s?__biz=Mzg5Mzg3MzkwNA==&mid=2247484907&idx=3&sn=025346e5ebcaab7f87a1c2c7304cda90&chksm=c0297e74f75ef7626ff2ca31e19fc3a9c91065acdd2d89ed91a9d7086a1e2006ba462814a52a#rd)
 
-[【 6. kafka 常见故障处理 】](https://github.com/WuZongYun/bigdata_learning/blob/main/kafka/6_Kafka%E5%B8%B8%E8%A7%81%E6%95%85%E9%9A%9C%E5%A4%84%E7%90%86.md)
+[【 6. kafka 常见故障处理 】](https://mp.weixin.qq.com/s?__biz=Mzg5Mzg3MzkwNA==&mid=2247484907&idx=5&sn=b6127c93afc94e624e2d9384b38ecefc&chksm=c0297e74f75ef762e591a9bb83f085727d80cc5cd2743f23007dd9671844d257ec862901e1a0#rd)
 
-[【 7. kafka 真实项目最佳实践 】](https://github.com/WuZongYun/bigdata_learning/blob/main/kafka/7_kafka%E7%9C%9F%E5%AE%9E%E9%A1%B9%E7%9B%AE%E6%9C%80%E4%BD%B3%E5%AE%9E%E8%B7%B5.md)
+[【 7. kafka 真实项目最佳实践 】](https://mp.weixin.qq.com/s?__biz=Mzg5Mzg3MzkwNA==&mid=2247484907&idx=4&sn=ac3050dd4a424ac9157a631fcc44795f&chksm=c0297e74f75ef762b8f95126fddd4de06c3ab2e03274f4765faaf4ec9a09d86fa98adce7a022#rd)
 
 ## [**十、spark**](https://github.com/WuZongYun/bigdata_study/tree/main/shell)
 
