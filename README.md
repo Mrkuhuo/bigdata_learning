@@ -158,6 +158,11 @@
 
 ## [**十五、clickhouse**](https://github.com/WuZongYun/bigdata_study/tree/main/shell)
 
+[【 1. clickhouse 简介、安装及实操 】](https://mp.weixin.qq.com/s?__biz=Mzg5Mzg3MzkwNA==&mid=2247484919&idx=1&sn=802530a927ff531a3601efdf8e8eaa23&chksm=c0297e68f75ef77e4c38f49ea37a2e0f4108f9ec5a583564d298d08247778dd207713706f4ba#rd)
+
+[【 2. clickhouse 基本操作 】](https://mp.weixin.qq.com/s?__biz=Mzg5Mzg3MzkwNA==&mid=2247484919&idx=2&sn=42a6ce2bad6c7c452373bd8c5d0bd33e&chksm=c0297e68f75ef77e857c1224c3af7f20691521a4d6037106bcb589b00fa8f84d3dc594f0da3a#rd)
+
+[【 3. clickhouse 物化视图 】](https://mp.weixin.qq.com/s?__biz=Mzg5Mzg3MzkwNA==&mid=2247484919&idx=3&sn=957584e856c18b5a082761d3073bfdb7&chksm=c0297e68f75ef77ef36b7b5550e26ec82068ec7c3155d35369cff314db3ef7d42efc32451312#rd)
 
 
 ## [**十六、flinkcCDC**](https://github.com/WuZongYun/bigdata_study/tree/main/shell)
