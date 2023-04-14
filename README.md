@@ -156,7 +156,7 @@
 
 ## [**十四、sqoop**](https://github.com/WuZongYun/bigdata_study/tree/main/shell)
 
-## [**十五、clickhouse**](https://github.com/WuZongYun/bigdata_study/tree/main/shell)
+## [**十五、clickhouse**]()
 
 [【 1. clickhouse 简介、安装及实操 】](https://mp.weixin.qq.com/s?__biz=Mzg5Mzg3MzkwNA==&mid=2247484919&idx=1&sn=802530a927ff531a3601efdf8e8eaa23&chksm=c0297e68f75ef77e4c38f49ea37a2e0f4108f9ec5a583564d298d08247778dd207713706f4ba#rd)
 
@@ -164,6 +164,11 @@
 
 [【 3. clickhouse 物化视图 】](https://mp.weixin.qq.com/s?__biz=Mzg5Mzg3MzkwNA==&mid=2247484919&idx=3&sn=957584e856c18b5a082761d3073bfdb7&chksm=c0297e68f75ef77ef36b7b5550e26ec82068ec7c3155d35369cff314db3ef7d42efc32451312#rd)
 
+[【 4. clickhouse字典操作 】](https://mp.weixin.qq.com/s?__biz=Mzg5Mzg3MzkwNA==&mid=2247484927&idx=1&sn=c521faf545877034c29bccb80afebaa2&chksm=c0297e60f75ef776cf520ed62abf996d1e048c943dbbe2ff76b51ca7ebcfd39375021aa21bcf#rd)
+
+[【 5. clickhouse 测试数据集及SQL练习 】](https://mp.weixin.qq.com/s?__biz=Mzg5Mzg3MzkwNA==&mid=2247484927&idx=2&sn=f2a17e32233ca66595e01262eb020534&chksm=c0297e60f75ef7766ca06462a8994b36a0a228afa3b17fe4b8f8a1e058b0c7c97056ad3fdbbf#rd)
+
+[【 6. clickhouse集成mysql 】](https://mp.weixin.qq.com/s?__biz=Mzg5Mzg3MzkwNA==&mid=2247484927&idx=3&sn=d98a884e9986f2f05d2ca2f9ba220aec&chksm=c0297e60f75ef776764e2dff227e3fe7f4c21cc1c4fbd60e8ab8b4bf1da2e0bf0c6878e4e131#rd)
 
 ## [**十六、flinkcCDC**](https://github.com/WuZongYun/bigdata_study/tree/main/shell)
 
