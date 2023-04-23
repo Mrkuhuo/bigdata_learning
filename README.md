@@ -150,7 +150,17 @@
 
 [【 10. ★ Flink 内存优化方案 ★ 】](https://t.zsxq.com/0c2CV3ww7)
 
-## [**十二、dolphinscheduler**](https://github.com/WuZongYun/bigdata_study/tree/main/shell)
+## [**十二、dolphinscheduler**]()
+
+[【 1. dolphinscheduler 定时任务编写详细教程 】](https://mp.weixin.qq.com/s?__biz=Mzg5Mzg3MzkwNA==&mid=2247485001&idx=1&sn=783e8f9ee3dbcdd7b0dc7342f872ea7f&chksm=c0297dd6f75ef4c044efc506a854dfb57cd5a2ebb7a42e3de56e6b02a3ba6dea54080f542e27#rd)
+
+[【 2. dolphinscheduler 定时任务编写详细教程 】](https://mp.weixin.qq.com/s?__biz=Mzg5Mzg3MzkwNA==&mid=2247485006&idx=1&sn=8909a71cd42e20b294f3e93b751954d5&chksm=c0297dd1f75ef4c740604bd39789e8acb302a8b30d1c2d2175faf885da1052c1d1b22b92d51c#rd)
+
+[【 3. dolphinscheduler 文件/任务组/UDF管理 】](https://mp.weixin.qq.com/s?__biz=Mzg5Mzg3MzkwNA==&mid=2247485028&idx=1&sn=2623fd65cb1a20ec58d00878d49af83f&chksm=c0297dfbf75ef4ed31d9cfa17ab148033df85bfe6867a53a3d1fa6fa55c3d651a471a09a285e#rd)
+
+[【 4. dolphinscheduler 配置DataX,Flink,Hive教程 】](https://mp.weixin.qq.com/s?__biz=Mzg5Mzg3MzkwNA==&mid=2247485044&idx=1&sn=ff96100ba75a0ae88613d596c6129213&chksm=c0297debf75ef4fdaaef3a2d055f84f5dbd890ace083abe29511050a9269351d1773c7470882#rd)
+
+[【 5. dolphinscheduler 配置spark、SQL、Sqoop教程 】](https://mp.weixin.qq.com/s?__biz=Mzg5Mzg3MzkwNA==&mid=2247485061&idx=1&sn=e0ce54c652397cae8197c33b42e585d5&chksm=c0297d1af75ef40cc8783d03f50a30e4a13c003bc39bf01d02f8e044d4f87209f076a10b5e3b#rd)
 
 ## [**十三、elasticsearch**](https://github.com/WuZongYun/bigdata_study/tree/main/shell)
 
@@ -171,6 +181,10 @@
 [【 6. clickhouse集成mysql 】](https://mp.weixin.qq.com/s?__biz=Mzg5Mzg3MzkwNA==&mid=2247484927&idx=3&sn=d98a884e9986f2f05d2ca2f9ba220aec&chksm=c0297e60f75ef776764e2dff227e3fe7f4c21cc1c4fbd60e8ab8b4bf1da2e0bf0c6878e4e131#rd)
 
 ## [**十六、flinkcCDC**](https://github.com/WuZongYun/bigdata_study/tree/main/shell)
+
+[【 1. clickhouse 简介、安装及实操 】](https://mp.weixin.qq.com/s?__biz=Mzg5Mzg3MzkwNA==&mid=2247485065&idx=1&sn=e4d223192eaa3f060b276130f5635d7d&chksm=c0297d16f75ef4000eec78ae594eaf356f612fb88c26a78738aaf418f58f3e1135f7ba6579ed#rd)
+
+[【 1. clickhouse 简介、安装及实操 】](https://mp.weixin.qq.com/s?__biz=Mzg5Mzg3MzkwNA==&mid=2247485069&idx=1&sn=cc4cf339a9a2e97956f20ddcec5ed2d4&chksm=c0297d12f75ef40442e0699a5eef97bcd1cfe02d65f54e179b2f5b7d45215a0145d69633272f#rd)
 
 ## [**十七、canal**](https://github.com/WuZongYun/bigdata_study/tree/main/shell)
 
