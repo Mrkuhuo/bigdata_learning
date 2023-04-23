@@ -180,11 +180,11 @@
 
 [【 6. clickhouse集成mysql 】](https://mp.weixin.qq.com/s?__biz=Mzg5Mzg3MzkwNA==&mid=2247484927&idx=3&sn=d98a884e9986f2f05d2ca2f9ba220aec&chksm=c0297e60f75ef776764e2dff227e3fe7f4c21cc1c4fbd60e8ab8b4bf1da2e0bf0c6878e4e131#rd)
 
-## [**十六、flinkcCDC**](https://github.com/WuZongYun/bigdata_study/tree/main/shell)
+## [**十六、flinkcCDC**]()
 
-[【 1. clickhouse 简介、安装及实操 】](https://mp.weixin.qq.com/s?__biz=Mzg5Mzg3MzkwNA==&mid=2247485065&idx=1&sn=e4d223192eaa3f060b276130f5635d7d&chksm=c0297d16f75ef4000eec78ae594eaf356f612fb88c26a78738aaf418f58f3e1135f7ba6579ed#rd)
+[【 1. OceanBase CDC 导入 Elasticsearch 】](https://mp.weixin.qq.com/s?__biz=Mzg5Mzg3MzkwNA==&mid=2247485065&idx=1&sn=e4d223192eaa3f060b276130f5635d7d&chksm=c0297d16f75ef4000eec78ae594eaf356f612fb88c26a78738aaf418f58f3e1135f7ba6579ed#rd)
 
-[【 1. clickhouse 简介、安装及实操 】](https://mp.weixin.qq.com/s?__biz=Mzg5Mzg3MzkwNA==&mid=2247485069&idx=1&sn=cc4cf339a9a2e97956f20ddcec5ed2d4&chksm=c0297d12f75ef40442e0699a5eef97bcd1cfe02d65f54e179b2f5b7d45215a0145d69633272f#rd)
+[【 2. MongoDB CDC 导入 Elasticsearch 】](https://mp.weixin.qq.com/s?__biz=Mzg5Mzg3MzkwNA==&mid=2247485069&idx=1&sn=cc4cf339a9a2e97956f20ddcec5ed2d4&chksm=c0297d12f75ef40442e0699a5eef97bcd1cfe02d65f54e179b2f5b7d45215a0145d69633272f#rd)
 
 ## [**十七、canal**](https://github.com/WuZongYun/bigdata_study/tree/main/shell)
 
