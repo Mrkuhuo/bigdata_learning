@@ -186,11 +186,25 @@
 
 [【 2. MongoDB CDC 导入 Elasticsearch 】](https://mp.weixin.qq.com/s?__biz=Mzg5Mzg3MzkwNA==&mid=2247485069&idx=1&sn=cc4cf339a9a2e97956f20ddcec5ed2d4&chksm=c0297d12f75ef40442e0699a5eef97bcd1cfe02d65f54e179b2f5b7d45215a0145d69633272f#rd)
 
+[【 3. Oracle CDC 导入 Elasticsearch 】](https://mp.weixin.qq.com/s?__biz=Mzg5Mzg3MzkwNA==&mid=2247485073&idx=1&sn=0a01d64ac549ed1487bdf490e054f375&chksm=c0297d0ef75ef418ef6eb6f79a1221fc6e7c0383a00df5b32415ef50d913bf3b188836e64b82#rd)
+
+[【 4. PolarDB-X CDC 导入 Elasticsearch 】](https://mp.weixin.qq.com/s?__biz=Mzg5Mzg3MzkwNA==&mid=2247485116&idx=1&sn=0123b4e7a12ef9ebe5792c65ed7f370a&chksm=c0297d23f75ef435869ab5237d23ec1c50b8f6601ce6859d28db0e0beacf4d7f9a9efa09ffd5#rd)
+
+[【 5. SqlServer CDC 导入 Elasticsearch 】](https://mp.weixin.qq.com/s?__biz=Mzg5Mzg3MzkwNA==&mid=2247485193&idx=1&sn=d01d2088ead1e3800923fa90a71788f1&chksm=c0297c96f75ef5808951bc6a7fc70fd578b1c16f48fa689c2a6b75f6251b0d37d19ef2b610cb#rd)
+
+[【 6. TiDB CDC 导入 Elasticsearch 】](https://mp.weixin.qq.com/s?__biz=Mzg5Mzg3MzkwNA==&mid=2247485194&idx=1&sn=fdb5b164148ab6c63fcd50b0295f94f2&chksm=c0297c95f75ef583e6a2478ae4e178b9661aeb5d3a7bab0719ee161296c01c356abba200715b#rd)
+
 ## [**十七、canal**](https://github.com/WuZongYun/bigdata_study/tree/main/shell)
 
 ## [**十八、debezium**](https://github.com/WuZongYun/bigdata_study/tree/main/shell)
 
-## [**十九、datax**](https://github.com/WuZongYun/bigdata_study/tree/main/shell)
+## [**十九、datax**]()
+
+[【 1. DataX Ftp远程文件读写操作 】](https://mp.weixin.qq.com/s?__biz=Mzg5Mzg3MzkwNA==&mid=2247485197&idx=1&sn=e29a9f70561e0ec435a7d228e0af2ded&chksm=c0297c92f75ef584363e435f3ae3fcea8f4fe2a7344bee219d596655414ef39a1b030f507686#rd)
+
+[【 2. DataX Oracle 读写教程 】](https://mp.weixin.qq.com/s?__biz=Mzg5Mzg3MzkwNA==&mid=2247485198&idx=1&sn=76832674a668c9aadb4866c09fcaf230&chksm=c0297c91f75ef5870fbfcf22cc8a6e02607ef1a910c0fe9ccb3f19b0d088a60a8c67dbf177e8#rd)
+
+[【 3. DataX MySQL读写教程 】](https://mp.weixin.qq.com/s?__biz=Mzg5Mzg3MzkwNA==&mid=2247485199&idx=1&sn=076afb8961e5fb8e1454a98371995218&chksm=c0297c90f75ef586dc3a94381adee52149cfd377daa0d09ded5de5c58dac09839962bb11188c#rd)
 
 ## [**二十、hudi**](https://github.com/WuZongYun/bigdata_study/tree/main/shell)
 
@@ -200,9 +214,13 @@
 
 ## [**二十三、doris**](https://github.com/WuZongYun/bigdata_study/tree/main/shell)
 
-## [**二十四、cdh centos**](https://github.com/WuZongYun/bigdata_study/tree/main/shell)
+## [**二十四、cdh centos**]()
 
-## [**二十五、cdh ubuntu**](https://github.com/WuZongYun/bigdata_study/tree/main/shell)
+[【 1. cdh6 搭建大数据集群（centos版本） 】](https://mp.weixin.qq.com/s?__biz=Mzg5Mzg3MzkwNA==&mid=2247485195&idx=1&sn=73df141ffc8937f33dd5f9c897500721&chksm=c0297c94f75ef5820cf7a1b21a67ad12f250036a8b798c71acc5c8dddc1a2907ddddc8d44130#rd)
+
+## [**二十五、cdh ubuntu**]()
+
+[【 1. CDH6搭建大数据平台（Ubuntu版） 】](https://mp.weixin.qq.com/s?__biz=Mzg5Mzg3MzkwNA==&mid=2247485196&idx=1&sn=158c936862e2f00bbebcc1809169bd89&chksm=c0297c93f75ef585f7fa72bb6fa5d3c80669f1c4bb63c63f444e8cbd5405825fe59e65cdfa77#rd)
 
 ## [**二十六、superset**](https://github.com/WuZongYun/bigdata_study/tree/main/shell)
 
