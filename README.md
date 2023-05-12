@@ -212,7 +212,11 @@
 
 ## [**二十二、iceberg**](https://github.com/WuZongYun/bigdata_study/tree/main/shell)
 
-## [**二十三、doris**](https://github.com/WuZongYun/bigdata_study/tree/main/shell)
+## [**二十三、doris**]()
+
+[【 1. Doris安装与部署 】](https://mp.weixin.qq.com/s?__biz=Mzg5Mzg3MzkwNA==&mid=2247485204&idx=1&sn=5432bedc11f010e0dc94fd3de136a918&chksm=c0297c8bf75ef59dae780f654266918f722e6e345f2faa7665d9dd3978a1744b810420d93575#rd)
+
+[【 2. doris如何导入本地数据？ 】](https://mp.weixin.qq.com/s?__biz=Mzg5Mzg3MzkwNA==&mid=2247485211&idx=1&sn=d0a319535d358af1ca2856acba8b0d0b&chksm=c0297c84f75ef5920a1349d2014759cae97ef88c936bb0292941e379ed982680aba382a98fce#rd)
 
 ## [**二十四、cdh centos**]()
 
