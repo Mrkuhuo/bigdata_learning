@@ -218,6 +218,10 @@
 
 [【 2. doris如何导入本地数据？ 】](https://mp.weixin.qq.com/s?__biz=Mzg5Mzg3MzkwNA==&mid=2247485211&idx=1&sn=d0a319535d358af1ca2856acba8b0d0b&chksm=c0297c84f75ef5920a1349d2014759cae97ef88c936bb0292941e379ed982680aba382a98fce#rd)
 
+[【 3. doris数据表的创建与数据导入 】](https://mp.weixin.qq.com/s?__biz=Mzg5Mzg3MzkwNA==&mid=2247485225&idx=1&sn=e6defe7ee4e1c84a5a3f0e9b6d6ec7aa&chksm=c0297cb6f75ef5a0d68b04e7d9400f4c3c607e28c4c86bebf54e082ff32069a12c61f60f69be#rd)
+
+
+
 ## [**二十四、cdh centos**]()
 
 [【 1. cdh6 搭建大数据集群（centos版本） 】](https://mp.weixin.qq.com/s?__biz=Mzg5Mzg3MzkwNA==&mid=2247485195&idx=1&sn=73df141ffc8937f33dd5f9c897500721&chksm=c0297c94f75ef5820cf7a1b21a67ad12f250036a8b798c71acc5c8dddc1a2907ddddc8d44130#rd)
