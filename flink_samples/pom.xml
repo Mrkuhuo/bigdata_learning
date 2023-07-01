@@ -28,7 +28,7 @@ under the License.
 	</parent>
 
 	<artifactId>flink-examples</artifactId>
-	<name>Flink : Examples : </name>
+	<name>Flink :  Examples : </name>
 	<packaging>pom</packaging>
 
 	<properties>
