@@ -141,6 +141,8 @@
 
 [【 7. kafka 真实项目最佳实践 】](https://mp.weixin.qq.com/s?__biz=Mzg5Mzg3MzkwNA==&mid=2247484907&idx=4&sn=ac3050dd4a424ac9157a631fcc44795f&chksm=c0297e74f75ef762b8f95126fddd4de06c3ab2e03274f4765faaf4ec9a09d86fa98adce7a022#rd)
 
+[【 8. 超惊艳的Kafka可视化工具，用了以后效率翻倍！ 】](https://mp.weixin.qq.com/s?__biz=Mzg5Mzg3MzkwNA==&mid=2247485499&idx=1&sn=9482255cd1bcecf521e179b466ed6e6a&chksm=c02973a4f75efab27a52b765631a6327f46c004d953286431d69197227571a7839739b768dc2#rd)
+
 ## [**十、spark**](https://github.com/WuZongYun/bigdata_study/tree/main/shell)
 
 ## [**十一、flink**](https://github.com/WuZongYun/bigdata_study/tree/main/shell)
@@ -171,6 +173,8 @@
 
 [【 13. Flink 命令行工具 】](https://mp.weixin.qq.com/s?__biz=Mzg5Mzg3MzkwNA==&mid=2247485249&idx=1&sn=42079334365987b2580c497b53cace69&chksm=c0297cdef75ef5c8dd5ddc9e9f2111ff89ff97402476dda10ff3f6bda7cd0c734757a0dffbf4#rd)
 
+[【 14. 拒绝背锅，FlinkCDC采集表操作日志 】](https://mp.weixin.qq.com/s?__biz=Mzg5Mzg3MzkwNA==&mid=2247485475&idx=1&sn=399ce1dcdbf0585af827fc23a4650304&chksm=c02973bcf75efaaa2c09c14a9d21534b36e91a7268717bcf0d572918161e7c3802aa7ec41928#rd)
+
 ## [**十二、dolphinscheduler**]()
 
 [【 1. dolphinscheduler 定时任务编写详细教程 】](https://mp.weixin.qq.com/s?__biz=Mzg5Mzg3MzkwNA==&mid=2247485001&idx=1&sn=783e8f9ee3dbcdd7b0dc7342f872ea7f&chksm=c0297dd6f75ef4c044efc506a854dfb57cd5a2ebb7a42e3de56e6b02a3ba6dea54080f542e27#rd)
@@ -183,9 +187,11 @@
 
 [【 5. dolphinscheduler 配置spark、SQL、Sqoop教程 】](https://mp.weixin.qq.com/s?__biz=Mzg5Mzg3MzkwNA==&mid=2247485061&idx=1&sn=e0ce54c652397cae8197c33b42e585d5&chksm=c0297d1af75ef40cc8783d03f50a30e4a13c003bc39bf01d02f8e044d4f87209f076a10b5e3b#rd)
 
-## [**十三、elasticsearch**](https://github.com/WuZongYun/bigdata_study/tree/main/shell)
+## [**十三、elasticsearch**]()
 
-## [**十四、sqoop**](https://github.com/WuZongYun/bigdata_study/tree/main/shell)
+[【 1. ES增删改查代码实战 】](https://mp.weixin.qq.com/s?__biz=Mzg5Mzg3MzkwNA==&mid=2247485327&idx=1&sn=b80ddd7700d246d9afb9dac3621cbe2c&chksm=c0297c10f75ef50619606682579a6ad0b8fd00ce2a5f3b5bfcf5205057c3183795b1fb3ab67d#rd)
+
+## [**十四、sqoop**]()
 
 ## [**十五、clickhouse**]()
 
@@ -215,6 +221,8 @@
 
 [【 6. TiDB CDC 导入 Elasticsearch 】](https://mp.weixin.qq.com/s?__biz=Mzg5Mzg3MzkwNA==&mid=2247485194&idx=1&sn=fdb5b164148ab6c63fcd50b0295f94f2&chksm=c0297c95f75ef583e6a2478ae4e178b9661aeb5d3a7bab0719ee161296c01c356abba200715b#rd)
 
+[【 7. 涨知识！Flink旁侧流同步Mysql多表到Doris 】](https://mp.weixin.qq.com/s?__biz=Mzg5Mzg3MzkwNA==&mid=2247485538&idx=1&sn=900ff75b1e45e0dea093bd6262e03d66&chksm=c02973fdf75efaeb01da3a745f489b7a70e7cd03fb04aeebe664e347ef0854b157b2dc0e41aa#rd)
+
 ## [**十七、canal**](https://github.com/WuZongYun/bigdata_study/tree/main/shell)
 
 ## [**十八、debezium**](https://github.com/WuZongYun/bigdata_study/tree/main/shell)
@@ -243,6 +251,8 @@
 
 [【 4. doris 导入的数据转换、列映射及过滤 】](https://mp.weixin.qq.com/s?__biz=Mzg5Mzg3MzkwNA==&mid=2247485230&idx=1&sn=4089dce0b1288d9103b79c187ac2a661&chksm=c0297cb1f75ef5a785562b5d8b8bd764f71d8674c84ff807430d4c14822bb8b02c7b6b7b0495#rd)
 
+[【 5. 再见Hive，新一代数仓Doris横空出世，真香！ 】](https://mp.weixin.qq.com/s?__biz=Mzg5Mzg3MzkwNA==&mid=2247485531&idx=1&sn=6219cfbdb2c2fc752d0522d1980d9e08&chksm=c02973c4f75efad22562f85d232ec0f6764a0422755444a416860da510177e889ff1cd961a88#rd)
+
 ## [**二十四、cdh centos**]()
 
 [【 1. cdh6 搭建大数据集群（centos版本） 】](https://mp.weixin.qq.com/s?__biz=Mzg5Mzg3MzkwNA==&mid=2247485195&idx=1&sn=73df141ffc8937f33dd5f9c897500721&chksm=c0297c94f75ef5820cf7a1b21a67ad12f250036a8b798c71acc5c8dddc1a2907ddddc8d44130#rd)
@@ -261,10 +271,49 @@
 
 ## [**三十、maxwell**]()
 
-## [**大数据面试系列**]()
-
-## [**二十六、Github**]()
+## [**三十一、Github**]()
 
 [【 1. 想参与开源，不懂怎么PR(Pull Request)，看这篇就够了 】](https://mp.weixin.qq.com/s?__biz=Mzg5Mzg3MzkwNA==&mid=2247485259&idx=1&sn=a751893997cc0f2e834ab1ebe505f969&chksm=c0297cd4f75ef5c2cd0d2f93481e2c99258b136a318c0b892103bc3006759a5d98c638670a25#rd)
 
 [【 2. 超级详细的github操作教程（万字长文） 】](https://mp.weixin.qq.com/s?__biz=Mzg5Mzg3MzkwNA==&mid=2247485263&idx=1&sn=c8eaa443c98d8487af4d92757a8bf34c&chksm=c0297cd0f75ef5c624f3d7028cfb9ac55f31413b2f9011f0ac5ccddcd5c80984e0ade04a0cdc#rd)
+
+## [**三十二、NIFI**]()
+
+[【 1. NiFI实时同步MySQL数据到Kafka保姆级教程！ 】](https://mp.weixin.qq.com/s?__biz=Mzg5Mzg3MzkwNA==&mid=2247485583&idx=1&sn=863e60c86beedf9edfe658e1745bab59&chksm=c0297310f75efa066615660d20d27df921d7ade669bc6657847d7922b59550b0ebc74da0d34a#rd)
+
+## [**大数据面试系列**]()
+
+[【 1. 百度一面：什么是Flink状态？ 】](https://mp.weixin.qq.com/s?__biz=Mzg5Mzg3MzkwNA==&mid=2247485276&idx=1&sn=1289f87f16face3682c8fd1184375524&chksm=c0297cc3f75ef5d56e350b930a9b5e48de1d291e62e43600b47981e3da93cd0325443a3c03fc#rd)
+
+[【 2. 面试数据治理工程师，让介绍一下什么是数据治理 】](https://mp.weixin.qq.com/s?__biz=Mzg5Mzg3MzkwNA==&mid=2247485284&idx=1&sn=6c88ae8e2125557530288cb2c4177e9b&chksm=c0297cfbf75ef5ed2c38c5f0653900a09b8c5d90d04c9f1d905191489414af0cd8e61f9d7ad6#rd)
+
+[【 3. Flink面试高频题：Flink两阶段提交 】](https://mp.weixin.qq.com/s?__biz=Mzg5Mzg3MzkwNA==&mid=2247485327&idx=1&sn=b80ddd7700d246d9afb9dac3621cbe2c&chksm=c0297c10f75ef50619606682579a6ad0b8fd00ce2a5f3b5bfcf5205057c3183795b1fb3ab67d#rd)
+
+## [**大数据技能总结**]()
+
+[【 1. 一文讲透企业级大数据开发流程 】](https://mp.weixin.qq.com/s?__biz=Mzg5Mzg3MzkwNA==&mid=2247485317&idx=1&sn=62af367f0df66b34ab2884893e244760&chksm=c0297c1af75ef50c42530095e7d88b50607387cff7c0baf5758b9552abe3087ab6bf4b35b2de#rd)
+
+[【 2. 智能风控系统架构 】](https://mp.weixin.qq.com/s?__biz=Mzg5Mzg3MzkwNA==&mid=2247485339&idx=1&sn=040f0697dd4a8b479ba2f465f527f092&chksm=c0297c04f75ef512de1049ec3238a1648dcff1d3169755a77dc4b9d77a9ced1887376bdc2974#rd)
+
+[【 3. 7张图看懂用户画像 】](https://mp.weixin.qq.com/s?__biz=Mzg5Mzg3MzkwNA==&mid=2247485350&idx=1&sn=7f2b2287031521c34c80cbd23ec95dd1&chksm=c0297c39f75ef52f4563a2a3f4ee1ef638571f74ac48b61b5763fbf1b8555c316435ff088c14#rd)
+
+[【 4. 推荐系统知多少 】](https://mp.weixin.qq.com/s?__biz=Mzg5Mzg3MzkwNA==&mid=2247485374&idx=1&sn=ff0ce941f54e700751be9f3ce41e19d3&chksm=c0297c21f75ef5371fe8856d66dd843e8060742dcd1b7fc1f6bd677b61731779901a6303869e#rd)
+
+[【 5. 知识图谱经典总结 】](https://mp.weixin.qq.com/s?__biz=Mzg5Mzg3MzkwNA==&mid=2247485390&idx=1&sn=7c13392d45fbb8d44ededfe8f61605fe&chksm=c0297c51f75ef547de7dce999a7e0292aac52cbe74fc48d512898e76d67b29a6d038e2b13ab7#rd)
+
+[【 6. 什么是数据中台？ 】](https://mp.weixin.qq.com/s?__biz=Mzg5Mzg3MzkwNA==&mid=2247485403&idx=1&sn=9e684bff0726b8e939050adf8b8bc53a&chksm=c0297c44f75ef5523d4b8aadbd422c5d775b1e5c5df3ed0d4199ef0bf2e4c32d5bc8b1d05cb8#rd)
+
+[【 7. 云原生大数据如何实现？ 】](https://mp.weixin.qq.com/s?__biz=Mzg5Mzg3MzkwNA==&mid=2247485419&idx=1&sn=60f41e04f6ff3cdf15e90e851945ee97&chksm=c0297c74f75ef5620e2b297bf9da5659249b729f058e8725c1c11e56d564001e51d1e9373896#rd)
+
+[【 8. 数据治理超强总结 】](https://mp.weixin.qq.com/s?__biz=Mzg5Mzg3MzkwNA==&mid=2247485437&idx=1&sn=4a6fb495b4a52bf16a780053d2c5fc29&chksm=c0297c62f75ef574dd2ea98d27068aaff478d7164b34fac711d9a8c2c0219447a6dd6974758a#rd)
+
+[【 9. 数据仓库和数据湖 】](https://mp.weixin.qq.com/s?__biz=Mzg5Mzg3MzkwNA==&mid=2247485455&idx=1&sn=1ba1c0de011698642b1f851a6f93d20b&chksm=c0297390f75efa861caeee2f38f141e6a174d344b4bc475d2c22d57bb1a45b38e80b4be9e58d#rd)
+
+[【 10. 数据集成方案总结 】](https://mp.weixin.qq.com/s?__biz=Mzg5Mzg3MzkwNA==&mid=2247485470&idx=1&sn=dbff8ee3c64d6baf043e1d8bdd8ac854&chksm=c0297381f75efa97c8721150025b754d6b79f9b3b704d6ac91a7e16a63292d782858ec09c0d6#rd)
+
+
+
+
+
+
+
