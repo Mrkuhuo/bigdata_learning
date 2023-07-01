@@ -15,21 +15,21 @@
 
 ![](./images/微信公众号.jpg)
 
-[【 **cassandra 代码 持续更新中...**】](https://github.com/WuZongYun/bigdata_learning/tree/main/cassandra_samples)
+[【 cassandra 代码 持续更新中...】](https://github.com/WuZongYun/bigdata_learning/tree/main/cassandra_samples)
 
-[【 **doris 代码 持续更新中...**】](https://github.com/WuZongYun/bigdata_learning/tree/main/doris_samples)
+[【 doris 代码 持续更新中...】](https://github.com/WuZongYun/bigdata_learning/tree/main/doris_samples)
 
-[【 **flink 代码 持续更新中...**】](https://github.com/WuZongYun/bigdata_learning/tree/main/flink_samples)
+[【 flink 代码 持续更新中...】](https://github.com/WuZongYun/bigdata_learning/tree/main/flink_samples)
 
-[【 **hbase 代码 持续更新中...**】](https://github.com/WuZongYun/bigdata_learning/tree/main/hbase-samples)
+[【 hbase 代码 持续更新中...】](https://github.com/WuZongYun/bigdata_learning/tree/main/hbase-samples)
 
-[【 **hudi 代码 持续更新中...**】](https://github.com/WuZongYun/bigdata_learning/tree/main/hudi-samples)
+[【 hudi 代码 持续更新中...】](https://github.com/WuZongYun/bigdata_learning/tree/main/hudi-samples)
 
-[【 **presto 代码 持续更新中...**】](https://github.com/WuZongYun/bigdata_learning/tree/main/presto_samples)
+[【 presto 代码 持续更新中...】](https://github.com/WuZongYun/bigdata_learning/tree/main/presto_samples)
 
-[【 **spark 代码 持续更新中...**】](https://github.com/WuZongYun/bigdata_learning/tree/main/spark_amples)
+[【 spark 代码 持续更新中...】](https://github.com/WuZongYun/bigdata_learning/tree/main/spark_amples)
 
-[【 **storm 代码 持续更新中...**】](https://github.com/WuZongYun/bigdata_learning/tree/main/storm_samples)
+[【 storm 代码 持续更新中...】](https://github.com/WuZongYun/bigdata_learning/tree/main/storm_samples)
 
 ## [**一、python**]()
 
