@@ -236,14 +236,20 @@
 
 [【 1. CDH6搭建大数据平台（Ubuntu版） 】](https://mp.weixin.qq.com/s?__biz=Mzg5Mzg3MzkwNA==&mid=2247485196&idx=1&sn=158c936862e2f00bbebcc1809169bd89&chksm=c0297c93f75ef585f7fa72bb6fa5d3c80669f1c4bb63c63f444e8cbd5405825fe59e65cdfa77#rd)
 
-## [**二十六、superset**](https://github.com/WuZongYun/bigdata_study/tree/main/shell)
+## [**二十六、superset**]()
 
-## [**二十七、docker**](https://github.com/WuZongYun/bigdata_study/tree/main/shell)
+## [**二十七、docker**]()
 
-## [**二十八、kubernetes**](https://github.com/WuZongYun/bigdata_study/tree/main/shell)
+## [**二十八、kubernetes**]()
 
-## [**二十九、streampark**](https://github.com/WuZongYun/bigdata_study/tree/main/shell)
+## [**二十九、streampark**]()
 
-## [**三十、maxwell**](https://github.com/WuZongYun/bigdata_study/tree/main/shell)
+## [**三十、maxwell**]()
 
-## [**大数据面试系列**](https://github.com/WuZongYun/bigdata_study/tree/main/shell)
+## [**大数据面试系列**]()
+
+## [**二十六、Github**]()
+
+[【 1. 想参与开源，不懂怎么PR(Pull Request)，看这篇就够了 】](https://mp.weixin.qq.com/s?__biz=Mzg5Mzg3MzkwNA==&mid=2247485259&idx=1&sn=a751893997cc0f2e834ab1ebe505f969&chksm=c0297cd4f75ef5c2cd0d2f93481e2c99258b136a318c0b892103bc3006759a5d98c638670a25#rd)
+
+[【 2. 超级详细的github操作教程（万字长文） 】](https://mp.weixin.qq.com/s?__biz=Mzg5Mzg3MzkwNA==&mid=2247485263&idx=1&sn=c8eaa443c98d8487af4d92757a8bf34c&chksm=c0297cd0f75ef5c624f3d7028cfb9ac55f31413b2f9011f0ac5ccddcd5c80984e0ade04a0cdc#rd)
