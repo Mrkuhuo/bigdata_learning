@@ -31,6 +31,8 @@
 
 [【 **storm 代码 持续更新中...**】](https://github.com/WuZongYun/bigdata_learning/tree/main/storm_samples)
 
+## [**一、python**]()
+
 [【 1. python 基础 】](https://mp.weixin.qq.com/s?__biz=Mzg5Mzg3MzkwNA==&mid=2247484818&idx=1&sn=22891961bc946358592193d2376bd1c8&chksm=c0297e0df75ef71bd0bb3eb7468997311c839cf08b8cda4c383b9d52268463495a4831001af5#rd)
 
 [【 2. python Numpy 】](http://t.csdn.cn/4mttz)
