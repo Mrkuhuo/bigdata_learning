@@ -13,7 +13,7 @@ Example code.
     C++, Java, Ruby, PHP, Perl, and Python. Pre-generated Thrift code for HBase is included
     to be able to compile/run the examples without Thrift installed.
     If desired, the code can be re-generated as follows:
-    thrift --gen cpp --gen java --gen rb --gen py --gen php --gen perl \
+    thrift --gen cpp  --gen java --gen rb --gen py --gen php --gen perl \
         ${HBASE_ROOT}/hbase-thrift/src/main/resources/org/apache/hadoop/hbase/thrift/Hbase.thrift
     and re-placed at the corresponding paths. You should not have to do this generally.
 
