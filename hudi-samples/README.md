@@ -15,7 +15,7 @@
   limitations under the License.
 -->
 
-This directory contains examples code that uses hudi.
+This directory  contains examples code that uses hudi.
 
 To run the demo: 
 
