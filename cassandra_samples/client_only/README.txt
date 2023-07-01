@@ -29,7 +29,7 @@ data to the cluster it connects to.
 
 'read' will read the data that was written in the write step.
 
--- Configuration --
+--   Configuration --
 The conf/cassandra.yaml is to start up the fat client. The fat client
 joins the gossip network but does not participate in storage. It
 needs to have the same configuration as the rest of the cluster except
