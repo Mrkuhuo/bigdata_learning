@@ -150,6 +150,12 @@
 
 [【 10. ★ Flink 内存优化方案 ★ 】](https://t.zsxq.com/0c2CV3ww7)
 
+[【 11. Flink任务执行与资源划分 】](https://mp.weixin.qq.com/s?__biz=Mzg5Mzg3MzkwNA==&mid=2247485239&idx=1&sn=6878caef3d36276dfb009900c6a73feb&chksm=c0297ca8f75ef5be956785dfc1b217a3ee2b31b0105faf2cb9cf3fdb15b184629fab9b416ee7#rd)
+
+[【 12. Flink 算子链与槽位共享 】](https://mp.weixin.qq.com/s?__biz=Mzg5Mzg3MzkwNA==&mid=2247485245&idx=1&sn=a08e611ef2f4501201baf6b2abf87e59&chksm=c0297ca2f75ef5b43899623be27204ced296be79e27815bf9dfd220043da7aaeefc6ab2854cc#rd)
+
+[【 13. Flink 命令行工具 】](https://mp.weixin.qq.com/s?__biz=Mzg5Mzg3MzkwNA==&mid=2247485249&idx=1&sn=42079334365987b2580c497b53cace69&chksm=c0297cdef75ef5c8dd5ddc9e9f2111ff89ff97402476dda10ff3f6bda7cd0c734757a0dffbf4#rd)
+
 ## [**十二、dolphinscheduler**]()
 
 [【 1. dolphinscheduler 定时任务编写详细教程 】](https://mp.weixin.qq.com/s?__biz=Mzg5Mzg3MzkwNA==&mid=2247485001&idx=1&sn=783e8f9ee3dbcdd7b0dc7342f872ea7f&chksm=c0297dd6f75ef4c044efc506a854dfb57cd5a2ebb7a42e3de56e6b02a3ba6dea54080f542e27#rd)
