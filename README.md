@@ -5,16 +5,6 @@
 
 ## 码字不易，路过的朋友们右上角请点个 ★star★ 鼓励一下~，感谢（抱拳）。
 
-![](./images/logo.png)
-
-## [gitee（同步更新,可点击访问）](https://gitee.com/wzylzjtn/bigdata_study)
-
-![](./images/img_249.png)
-
-## 公众号同步更新中...
-
-![](./images/微信公众号.jpg)
-
 [【 cassandra 代码 持续更新中...】](https://github.com/WuZongYun/bigdata_learning/tree/main/cassandra_samples)
 
 [【 doris 代码 持续更新中...】](https://github.com/WuZongYun/bigdata_learning/tree/main/doris_samples)
