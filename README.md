@@ -271,6 +271,8 @@
 
 [【 1. NiFI实时同步MySQL数据到Kafka保姆级教程！ 】](https://mp.weixin.qq.com/s?__biz=Mzg5Mzg3MzkwNA==&mid=2247485583&idx=1&sn=863e60c86beedf9edfe658e1745bab59&chksm=c0297310f75efa066615660d20d27df921d7ade669bc6657847d7922b59550b0ebc74da0d34a#rd)
 
+## [**三十三、SEATUNNEL**]()
+
 ## [**大数据面试系列**]()
 
 [【 1. 百度一面：什么是Flink状态？ 】](https://mp.weixin.qq.com/s?__biz=Mzg5Mzg3MzkwNA==&mid=2247485276&idx=1&sn=1289f87f16face3682c8fd1184375524&chksm=c0297cc3f75ef5d56e350b930a9b5e48de1d291e62e43600b47981e3da93cd0325443a3c03fc#rd)
