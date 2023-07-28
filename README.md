@@ -243,6 +243,8 @@
 
 [【 5. 再见Hive，新一代数仓Doris横空出世，真香！ 】](https://mp.weixin.qq.com/s?__biz=Mzg5Mzg3MzkwNA==&mid=2247485531&idx=1&sn=6219cfbdb2c2fc752d0522d1980d9e08&chksm=c02973c4f75efad22562f85d232ec0f6764a0422755444a416860da510177e889ff1cd961a88#rd)
 
+[【 6. Doris真贴心，连测试数据都提供了，整整100G！建议收藏。 】](https://mp.weixin.qq.com/s/Qwr-b2uvJGOoA4gWpZ8KzQ)
+
 ## [**二十四、cdh centos**]()
 
 [【 1. cdh6 搭建大数据集群（centos版本） 】](https://mp.weixin.qq.com/s?__biz=Mzg5Mzg3MzkwNA==&mid=2247485195&idx=1&sn=73df141ffc8937f33dd5f9c897500721&chksm=c0297c94f75ef5820cf7a1b21a67ad12f250036a8b798c71acc5c8dddc1a2907ddddc8d44130#rd)
