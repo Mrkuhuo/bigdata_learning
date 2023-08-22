@@ -275,6 +275,16 @@
 
 ## [**三十三、SEATUNNEL**]()
 
+[【 1. 完美替代DataX，Seatunnel初体验. 】](https://mp.weixin.qq.com/s/-TfAFLEpY_EqbMGRmZIqLw)
+
+[【 2. 手搓一个全新 Seatunnel Connector 】](https://mp.weixin.qq.com/s/UHtDx5MynKhUb_2N_jOyTg)
+
+[【 3. 共建开源】手把手教你贡献一个Seatunnel PR，超级详细教程！ 】](https://mp.weixin.qq.com/s/CBDnzNBartBd0RDamTBi0A)
+
+[【 4. seatunnel配置写入Kafka任务，附300个案例demo 】](https://mp.weixin.qq.com/s/F8QSQzsFH3HlMuBeZKVyXA)
+
+[【 5. dolphinscheduler+flink+seatunnel集成详细教程 】](https://mp.weixin.qq.com/s/CldBP03Pr35S3tq2mQoocA)
+
 ## [**大数据面试系列**]()
 
 [【 1. 百度一面：什么是Flink状态？ 】](https://mp.weixin.qq.com/s?__biz=Mzg5Mzg3MzkwNA==&mid=2247485276&idx=1&sn=1289f87f16face3682c8fd1184375524&chksm=c0297cc3f75ef5d56e350b930a9b5e48de1d291e62e43600b47981e3da93cd0325443a3c03fc#rd)
@@ -304,10 +314,3 @@
 [【 9. 数据仓库和数据湖 】](https://mp.weixin.qq.com/s?__biz=Mzg5Mzg3MzkwNA==&mid=2247485455&idx=1&sn=1ba1c0de011698642b1f851a6f93d20b&chksm=c0297390f75efa861caeee2f38f141e6a174d344b4bc475d2c22d57bb1a45b38e80b4be9e58d#rd)
 
 [【 10. 数据集成方案总结 】](https://mp.weixin.qq.com/s?__biz=Mzg5Mzg3MzkwNA==&mid=2247485470&idx=1&sn=dbff8ee3c64d6baf043e1d8bdd8ac854&chksm=c0297381f75efa97c8721150025b754d6b79f9b3b704d6ac91a7e16a63292d782858ec09c0d6#rd)
-
-
-
-
-
-
-
