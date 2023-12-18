@@ -8,7 +8,7 @@ main cassandra configuration directory.
 
 You can then set the authenticator and authority properties in cassandra.yaml
 to use those classes. See the two configuration files access.properties and
-passwd.properties to configure the authorized users and permissions.
+passwd.properties to configure the authorized    users and permissions.
 
 When starting cassandra, you need to specify the location of the passwd.properties
 and access.properties files by adding JVM args similar to the following either
