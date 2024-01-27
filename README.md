@@ -173,6 +173,42 @@
 
 [【 17. Flink实现运输公司车辆超速实时监测 】](https://mp.weixin.qq.com/s?__biz=Mzg5Mzg3MzkwNA==&mid=2247487090&idx=1&sn=0c131012d4cb469b6aa0dd4f8514d628&chksm=c02975edf75efcfb22535718521d3454a70ffe2ed7c87592026cc32ceea17968bb69de3af967#rd)
 
+[【 18. 源码剖析 | Flink源码修改编译保姆级教程 】](https://mp.weixin.qq.com/s?__biz=Mzg5Mzg3MzkwNA==&mid=2247487382&idx=1&sn=e73d58103decd9be73d5078b4b14c583&chksm=c0297409f75efd1f6e92610ea5537de6d6cebda0105d1fc6c7e831f6025a2b496a1ee6805134#rd)
+
+[【 19. 这三种场景，建议使用Flink 】](https://mp.weixin.qq.com/s?__biz=Mzg5Mzg3MzkwNA==&mid=2247487385&idx=2&sn=18876b9aa025e9dc2b566c58b8a7dde8&chksm=c0297406f75efd10674962f806a21984fe72ef0eaa5020d8fa23443e812e728022b2cd5769ed#rd)
+
+[【 20. 还不会修改Flink源码？请看这篇教程 】](https://mp.weixin.qq.com/s?__biz=Mzg5Mzg3MzkwNA==&mid=2247487385&idx=1&sn=b46e8e069a30a3ff6f6129cec320b264&chksm=c0297406f75efd10911ae55ef90e5c629d385cd20cb22dfe90a72b2c15fe230ad301d732bc6d#rd)
+
+[【 21. 万字长文 | 透过现象看本质 | 从WordCount 到Flink Streaming API 源码详细解读 】](https://mp.weixin.qq.com/s?__biz=Mzg5Mzg3MzkwNA==&mid=2247487400&idx=1&sn=c0513f759d656fa69a4a5baeff884d98&chksm=c0297437f75efd219f9afa3939327ee700fa9927a81b2ff786ea0f3019012688f3d7c7a5214a#rd)
+
+[【 22. Flink Table Api 完整源码解析 】](https://mp.weixin.qq.com/s?__biz=Mzg5Mzg3MzkwNA==&mid=2247487414&idx=1&sn=e7ed18f8e35d1f05c27ccde0d40d6ec6&chksm=c0297429f75efd3fe2979c2bcf071b28f9e12ebeb599bb7d2c2959f080ddecd74ccadfc93737#rd)
+
+[【 23. Flink《任务执行流程十步走》详细总结  】](https://mp.weixin.qq.com/s?__biz=Mzg5Mzg3MzkwNA==&mid=2247487489&idx=1&sn=1d449d787565bb47f5e5594d095c84dd&chksm=c0296b9ef75ee2883c7f912738ed7203b7f6db740edab6a9bdc3265a084e89b8cbdb4414bcaa#rd)
+
+[【 24. 翻遍Flink源码，发现Client任务提交之后运行步骤竟然还有45步之多...  】](https://mp.weixin.qq.com/s?__biz=Mzg5Mzg3MzkwNA==&mid=2247487497&idx=1&sn=2ad01d2910b772b288019063a7d03046&chksm=c0296b96f75ee28094234169f4ab6e6a99d638fe8e0c3c85f4e42ae98d4fd4c80fb5316c501f#rd)
+
+[【 25. 5000字彻底讲清什么是Flink状态与容错  】](https://mp.weixin.qq.com/s?__biz=Mzg5Mzg3MzkwNA==&mid=2247487515&idx=1&sn=20318df56da1d3c15ef9333117f9b9d1&chksm=c0296b84f75ee292a02dd8ceadb5b5b01a9ec91b9fc5be2f08c8bb92a8c0c6d75b4bea924763#rd)
+
+[【 26. 一张图彻底说清楚 Flink checkpoint 过程中 Coordinator 到底做了哪些事  】](https://mp.weixin.qq.com/s?__biz=Mzg5Mzg3MzkwNA==&mid=2247487557&idx=1&sn=bd27521c2329a07ab73ce98d6a26d558&chksm=c0296bdaf75ee2cc84a28c26c225d656a7d8d31797f1677b950f304e0d33c605676553f78546#rd)
+
+[【 27. Flink源码分析 | barrier(屏障) 如何传输  】](https://mp.weixin.qq.com/s?__biz=Mzg5Mzg3MzkwNA==&mid=2247487567&idx=1&sn=495833126fb094cdab69a3ea6c32f4f1&chksm=c0296bd0f75ee2c6aa80d47d06779db6661c3f0639b8694ae60eeaee0501b1df3c00fcba7501#rd)
+
+[【 28. Flink源码解析|状态的更新和存储流程详解  】](https://mp.weixin.qq.com/s?__biz=Mzg5Mzg3MzkwNA==&mid=2247487576&idx=1&sn=e95afecc54623a2e9220f7e72d3b7afd&chksm=c0296bc7f75ee2d1a3229952afa626cdafd9792e976c4a88d512aa3323242f3a822243cb1b99#rd)
+
+[【 29. Flink源码解析 | 元信息的存储  】](https://mp.weixin.qq.com/s?__biz=Mzg5Mzg3MzkwNA==&mid=2247487585&idx=1&sn=0dc6c2e00e9c25c709049e17db60c944&chksm=c0296bfef75ee2e8c77c1ba484de6f19e47b59968f1cf55f87e98de052b4418a20f85d9e0717#rd)
+
+[【 30. Flink源码解析 | 状态恢复如何进行元数据读取  】](https://mp.weixin.qq.com/s?__biz=Mzg5Mzg3MzkwNA==&mid=2247487606&idx=1&sn=778f18b029085ddd3295800dc287b90e&chksm=c0296be9f75ee2ff358510d470573a0814a9968064e613033092febdc0864607985e01bba7f3#rd)
+
+[【 31. Flink源码解析 | 状态的重分配  】](https://mp.weixin.qq.com/s?__biz=Mzg5Mzg3MzkwNA==&mid=2247487646&idx=1&sn=9d9bc37b13b4d89877527f8826ed53a7&chksm=c0296b01f75ee217b99bd5d2139c1d777a4f8a31be30b37701728bf2b1276bdda784ef604da5#rd)
+
+[【 32. Flink源码解析 | 状态数据的恢复  】](https://mp.weixin.qq.com/s?__biz=Mzg5Mzg3MzkwNA==&mid=2247487647&idx=1&sn=0746f2a6b2ac2610c1f8a5208cf43886&chksm=c0296b00f75ee2161b1704573c19a0e85a3ddfced57b39a6ea60752431c8825c29875dbf8274#rd)
+
+[【 33. Flink状态的重分配策略详解  】](https://mp.weixin.qq.com/s?__biz=Mzg5Mzg3MzkwNA==&mid=2247487660&idx=1&sn=0aa4f419016313ba0680568ec1dcd519&chksm=c0296b33f75ee225edb8318409c5a0e2cd5e5b0e7b462e9625b41372f46b8e77da074dc0af6c#rd)
+
+[【 34. Flink窗口基本概念和设计思想  】](https://mp.weixin.qq.com/s?__biz=Mzg5Mzg3MzkwNA==&mid=2247487661&idx=1&sn=6bb66502840c8b15a6147d0771ebf9f0&chksm=c0296b32f75ee2241cac79237d2740e5bc18f8ab8c937d3a7bcb9047d37142615d8b62fc2556#rd)
+
+[【 35. Flink调优 | 动态调整并行度  】](https://mp.weixin.qq.com/s?__biz=Mzg5Mzg3MzkwNA==&mid=2247487686&idx=1&sn=4deaf652e1e385592804a02946d542e1&chksm=c0296b59f75ee24f33e5629c8e4394d91bd28101312ddbb8839df1e3545fd03dc8cd5c792480#rd)
+
 ## [**十二、dolphinscheduler**]()
 
 [【 1. dolphinscheduler 定时任务编写详细教程 】](https://mp.weixin.qq.com/s?__biz=Mzg5Mzg3MzkwNA==&mid=2247485001&idx=1&sn=783e8f9ee3dbcdd7b0dc7342f872ea7f&chksm=c0297dd6f75ef4c044efc506a854dfb57cd5a2ebb7a42e3de56e6b02a3ba6dea54080f542e27#rd)
